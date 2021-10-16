@@ -271,6 +271,17 @@ header .entry-meta {
 		padding: 25px 15px;
 		overflow: hidden;
 
+		@media #{$toosmall} {
+      margin-bottom: 25px;
+      padding: 25px 10px;
+
+      .featured-image {
+            display:block;
+            margin:-50px -80px;
+            padding: 0px 0px 50px 0px;
+          }
+    }
+		
 		@media #{$small} {
 		.featured-image {
 				display:block;
