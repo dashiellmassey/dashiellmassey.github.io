@@ -1,7 +1,7 @@
 ---
 layout: post-index
 title: About
-permalink: /about.html
+permalink: /test/
 subtitle: This is a test post.
 ---
 
