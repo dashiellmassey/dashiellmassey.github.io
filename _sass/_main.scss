@@ -393,6 +393,29 @@ h1 {
   flex-grow: 2;
   background-color: #CBC9E2;
   color: $body-color;
+	
+	a {  
+	text-decoration: none;
+	color: $link-color; 
+
+	&:visited { 
+		color: lighten($link-color, 20); 
+	}
+
+	&:hover { 
+		color: lighten($link-color, 60); 
+	}
+
+	&:focus { 
+		outline: thin dotted; 
+		color: darken($link-color, 20);
+	}
+
+	&:hover, 
+	&:active { 
+		outline: 0; 
+	}
+}
 }
 
 @media #{$toosmall} {
