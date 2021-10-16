@@ -391,8 +391,8 @@ h1 {
   padding-top: 15px;
   padding-bottom: 25px;
   flex-grow: 2;
-  background-color: darken($text-color, 20);
-  color: #EDEDED; //#$body-color;
+  background-color: darken($text-color, 40);
+  color: $body-color;
 }
 
 @media #{$toosmall} {
