@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample Post
+title: About
 subtitle: This is a test post.
 ---
 
