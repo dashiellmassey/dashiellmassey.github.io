@@ -24,7 +24,7 @@ $border-color                    : lighten($base-color,60);
 $link-color                      : #202020;
 
 /*--- SCREEN SIZES ----------------------------------------------------------*/
-
+$toosmall						             : "only screen and (max-width: 30em)";
 $small                           : "only screen and (min-width: 30em)";
 $medium                          : "only screen and (min-width: 48em)";
 $large                           : "only screen and (min-width: 62.5em)";
