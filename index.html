@@ -2,8 +2,6 @@
 layout: post-index
 ---
 
-{% if paginator.previous_page %}
-{% else %}
 <article style="padding:0px">
     <div class="grid" style="display:flex; align-items:stretch">
 
@@ -40,8 +38,6 @@ layout: post-index
         </div>
 </div>
 </article>
-{% endif %}
-
 
 {% for post in paginator.posts %}
 <article>
