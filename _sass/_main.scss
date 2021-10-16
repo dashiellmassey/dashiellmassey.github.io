@@ -392,7 +392,7 @@ h1 {
   padding-bottom: 25px;
   flex-grow: 2;
   background-color: darken($text-color, 20);
-  color: $body-color;
+  color: #EDEDED; //#$body-color;
 }
 
 @media #{$toosmall} {
