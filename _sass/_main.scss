@@ -9,7 +9,7 @@ a {
 	}
 
 	&:hover { 
-		color: lighten($link-color, 20); 
+		color: lighten($link-color, 60); 
 	}
 
 	&:focus { 
@@ -90,8 +90,8 @@ hr {
     padding: 0;
     height: 1px; 
     border: 0; 
-    border-top: 1px solid #000000;
-    border-bottom: 1px solid #000000; 
+    border-top: 1px solid #4A1486;
+    border-bottom: 1px solid #4a1486; 
 }
 
 /*--- FIGURES & IMAGES ------------------------------------------------------*/
