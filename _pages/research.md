@@ -16,25 +16,7 @@ In my Ph.D. work, I have examined several aspects of the replication timing prog
 
 <h3> Single-cell variation in replication timing </h3>
 
-<article style="padding:0px">
-    <div class="grid" style="display:flex; align-items:stretch">
-
-        <div class="col-1-2 .d-md-none">
-            <div style="
-            display:table-cell;
-            float:left;
-            width:100%;
-            height:100%;
-            background-image: url(/images/Single-cell-Figure2a.jpg);
-            background-size:cover;
-            background-position:center">
-        </div></div>
-
-        <div class="col-1-2">
-            Test
-        </div>
-</div>
-</article>
+<p style="text-align:center;"><img src="/images/Single-cell-Figure2a.jpg" width="150px"></p>
 
 
 <hr>
