@@ -10,22 +10,21 @@ permalink: /equity/
 interest in how socially-segregated interpersonal networks create persistent barriers to equity, even when institutions have the best of intentions. In other words:</p>
 
 <p style="text-align:center;">
-  <b> How much of the "hidden curriculum" of academia is learned from friends and not from formal programming?</b>
+  <b> How much of the "hidden curriculum" of academia is learned from friends, and not from formal programming?</b>
 </p>
 
 <p style="text-align:center;">
-  <b>And if what we know depends on <i>who</i> we know, how do we level the playing field?</b>
+  <b>And if <i>what</i> we know depends on <i>who</i> we know, how do we level the playing field?</b>
 </p>
   
-<p> This interest dates back to high school: I grew up in Cambridge, MA, which spends more per student than any other urban district in 
-  the state, and my high school had roughly equal proportions of white and Black students (each ~35%). Students were not "tracked" into
-  college preparation, honors, and AP courses, but rather given the opportunity to enroll in any level for any given course. Yet honors
-  and AP classes were disproportionately white.</p>
+<p> This interest dates back to high school: my high school had roughly equal numbers of white and Black students, and gave each student
+  the choice of whether to take any course at the college preparation, honors, and AP level; yet honors and AP classes were 
+  disproportionately white.</p>
   
-<p> Struck by this discrepancy, I proposed a project to the Mayor’s Office and School District, which generously provided me with funding
-  to mail a survey to every family at the high school. In the 200 parent-student pairs who responded, I found that parents and students
-  alike expressed confusion about selecting the appropriate level of course difficulty and that the majority reported that they made 
-  these decisions primarily based on information from friends and peers, rather than from school administrators. </p>
+ <p> In the summer my junior year of high school, I proposed a project to the Mayor’s Office and School District, which generously provided
+  me with funding to mail a survey to every family at the school. In the ~200 parent-student pairs who responded, I found that the majority
+  of parents and students alike reported that they made these decisions primarily based on information from friends and peers, rather than
+  from school administrators. </p>
   
 <p> This idea has informed the way that I approach <a href="/teaching/">teaching</a>, and it has shaped the efforts that I have 
   contributed to as a core member of my department's <a href="https://www.cornellmbgdiversity.org/ target="_blank" 
