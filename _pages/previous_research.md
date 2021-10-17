@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Past Research
+subtitle: <a href="/research/">Return to current research.</a>
 permalink: /past-research/
 ---
 
