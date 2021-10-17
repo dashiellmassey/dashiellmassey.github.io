@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Current Research Interests
-subtitle: To read about my previous research, click <a href="/past-research"> here </a>.
+subtitle: <a href="/past-research">To read about my previous research, click here </a>.
 permalink: /research/
 ---
 
