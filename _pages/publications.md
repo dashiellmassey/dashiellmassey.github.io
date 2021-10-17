@@ -29,5 +29,5 @@ permalink: /publications/
     <a href="https://doi.org/10.1038/ng.3993" target="_blank" rel="noopener noreferrer"> Mismatch repair prefers exons.</a>
     <i>Nature Genetics</i> 49, 1673-1674.<i><span style="color: #4A1486"> NEWS AND VIEWS </span></i> </li>
   <br>
-  <li>Delabaere L*, Ertl HA*, <b><i>Massey DJ</b></i>, Hofley CM, Sohail F, Bienenstock EJ, Sebastian H, Chiolo3 I & LaRocque JR. (2017). <a href="https://doi.org/10.1111/acel.12556" target="_blank" rel="noopener noreferrer"> Aging impairs double-strand break repair by homologous recombination in Drosophila germ cells.</a> <i>Aging Cell</i> 16, 320-328. </li> 
+  <li>Delabaere L*, Ertl HA*, <b><i>Massey DJ</b></i>, Hofley CM, Sohail F, Bienenstock EJ, Sebastian H, Chiolo I & LaRocque JR. (2017). <a href="https://doi.org/10.1111/acel.12556" target="_blank" rel="noopener noreferrer"> Aging impairs double-strand break repair by homologous recombination in Drosophila germ cells.</a> <i>Aging Cell</i> 16, 320-328. </li> 
 </ul>
