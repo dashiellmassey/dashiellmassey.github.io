@@ -411,7 +411,6 @@ h1 {
 }
 
 /*---- COLLAPSIBLE -------------------------------------------------------*/
-/* Style the button that is used to open and close the collapsible content */
 .collapsible {
   background-color: #eee;
   color: #444;
@@ -435,24 +434,4 @@ h1 {
   display: none;
   overflow: hidden;
   background-color: #f1f1f1;
-}
-
-.content {
-  padding: 0 18px;
-  background-color: white;
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.2s ease-out;
-}
-
-.collapsible:after {
-  content: '\02795'; /* Unicode character for "plus" sign (+) */
-  font-size: 13px;
-  color: white;
-  float: right;
-  margin-left: 5px;
-}
-
-.active:after {
-  content: "\2796"; /* Unicode character for "minus" sign (-) */
 }
