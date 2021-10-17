@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About2
+title: About Me
 ---
 <p>
 This theme is available for free under the MIT open source software license.
