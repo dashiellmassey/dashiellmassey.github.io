@@ -22,10 +22,9 @@ a {
 		outline: 0; 
 	}
 }
+a.dark-bg, a.dark-bg:link, a.dark-bg:visited {text-decoration: underline; color: #808080;}
 
-a.dark-bg {text-decoration: underline; color: #808080;}
-
-a.purple-bg {text-decoration: underline; color: #9EBCDA;}
+a.purple-bg, a.purple-bg:link, a.purple-bg:visited {text-decoration: underline; color: #9EBCDA;}
 
 /*--- BLOCKQUOTE ------------------------------------------------------------*/
 
