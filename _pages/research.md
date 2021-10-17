@@ -35,7 +35,7 @@ Replication timing has been observed to be highly reproducible across assays, ye
 <br>
 <br>
 
-Replication timing can be inferred from local fluctuations in read depth in whole-genome sequencing. However, a number of other factors (GC content, mappability biases, copy-number variations) can also impact read depth. Traditionally, these factors have been accounted for by sequencing a control sample of non-replicating (G1) cells in addition to a replicating (S-phase) sample. I contributed to the development of TIGER (<i>T</i>iming <i>I<i>nferred from <i>Ge</i>nome <i>R</i>eplication), a pipeline for simulating a control sample to correct these confounding factors in a single unsorted sample. 
+Replication timing can be inferred from local fluctuations in read depth in whole-genome sequencing. However, a number of other factors (GC content, mappability biases, copy-number variations) can also impact read depth. Traditionally, these factors have been accounted for by sequencing a control sample of non-replicating (G1) cells in addition to a replicating (S-phase) sample. I contributed to the development of TIGER (<i>T</i>iming <i>I</i>nferred from <i>Ge</i>nome <i>R</i>eplication), a pipeline for simulating a control sample to correct these confounding factors in a single unsorted sample. 
 <a href="https://doi.org/10.1093/bioinformatics/btab166" target="_blank" rel="noopener noreferrer">Read the paper in <i>Bioinformatics</i>. <i class='fa fa-link fa-lg'></i></a>
 
 <hr style="height:1px; border:none; color:#4A1486; background-color:#4A1486;">
