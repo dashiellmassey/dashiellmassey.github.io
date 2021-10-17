@@ -22,7 +22,17 @@ In my Ph.D. work, I have examined several aspects of the replication timing prog
 <br>
 <br>
 
-Replication timing has been observed to be highly reproducible across assays, yet the underlying mechanism(s) dictating its emergence are incompletely understood. To better understand what <i>kinds</i> of mechanisms might be responsible, we developed an approach to assay replication timing in thousands of single cells. We find that replication timing is remarkably consistent across cells, but nonetheless, cell-to-cell variability is evident. This variability is most compatible with the notion that replication timing arises from disparate origin firing probabilities rather than from some kind of global "metronome".
+Replication timing has been observed to be highly reproducible across assays, yet the underlying mechanism(s) dictating its emergence are incompletely understood. To better understand what <i>kinds</i> of mechanisms might be responsible, we developed an approach to assay replication timing in thousands of single cells. We find that replication timing is remarkably consistent across cells, but nonetheless, cell-to-cell variability is evident. This variability is most compatible with the notion that replication timing arises from disparate origin firing probabilities rather than from some kind of global "metronome". <a href="https://doi.org/10.1101/2021.05.14.443897" target="_blank" rel="noopener noreferrer">Click here to read the manuscript on Biorxiv.<i class='ai ai-biorxiv ai-lg'></i></a>
+
+<h3> Inferring replication timing without cell sorting  </h3>
+
+<p style="text-align:center;"><img src="/images/TIGER-Figure2.jpg" width="500"></p>
+<i>An overview of the TIGER pipeline.</i>
+
+<br>
+<br>
+
+Replication timing can be inferred from local fluctuations in read depth in whole-genome sequencing. However, a number of other factors (GC content, mappability biases, copy-number variations) can also impact read depth. I contributed to the development of TIGER (Timing Inferred from Genome Replication), a pipeline for correcting these confounding factors for more accurate replication-timing measurement. <a href="https://doi.org/10.1093/bioinformatics/btab166" target="_blank" rel="noopener noreferrer">Click here to read the paper in <i>Bioinformatics</i>.<i class='fa fa-link-square fa-lg'></i></a>
 
 <hr>
 <h2> Previous Research </h2>
