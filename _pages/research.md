@@ -15,7 +15,7 @@ Efficient and accurate replication of the genome is a crucial prerequisite to su
 In my Ph.D. work, I have examined several aspects of the replication timing program, each time with an eye toward method development:
 <br>
 
-<button class="collapsible" id="yaml">Single-cell variation in replication timing</button>
+<button type="button" class="collapsible" id="yaml">Single-cell variation in replication timing</button>
 
 <div class="content" id="yamldata" markdown="1">
   <p style="text-align:center;"><img src="/images/Single-cell-Figure2a.jpg" width="700"></p>
