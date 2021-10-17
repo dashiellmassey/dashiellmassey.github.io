@@ -3,6 +3,25 @@ layout: post
 title: About Me
 permalink: /about/
 ---
+<article style="padding:0px">
+    <div class="grid" style="display:flex; align-items:stretch">
+
+        <div class="col-1-2 .d-md-none">
+            <div style="
+            display:table-cell;
+            float:left;
+            width:100%;
+            height:100%;
+            background-image: url(/images/CSHL.jpeg);
+            background-size:cover;
+            background-position:center">
+        </div></div>
+
+        <div class="col-1-2">
+            I grew up in Cambridge, MA, and received a B.A. in Biology from <a href="https://www.swarthmore.edu/">Swarthmore College</a>, a small liberal arts college in Pennsylvania. During my time as an undergraduate, I conducted research under the mentorship of Dr. Catherine Allan, MD, a pediatric cardiac intensivist at <a href="childrenshospital">Boston Children's Hospital</a>, investigating predictors of negative outcomes following a specific neonatal surgical procedure (delayed sternal re-approximation).
+        </div>
+</div>
+</article>
 <img src="/images/CSHL.jpeg" width="150px" class="center">
 <br>
 <br>
