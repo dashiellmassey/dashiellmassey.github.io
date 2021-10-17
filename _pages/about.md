@@ -14,3 +14,8 @@ After graduation, I worked for two years as a laboratory coordinator in the <a h
 <br>
 Currently, I am a Ph.D. candidate in Dr. Amnon Koren's lab, in the Department of Molecular Biology and Genetics at Cornell University.
 The Koren Lab studies DNA replication timing, the spatiotemporal ordering in which genomic regions are replicated during S phase. My research focuses on developing a method to study replication timing of individual cells, in order to study how it might vary between cells.
+<br>
+<br>
+In addition to my research at Cornell, I have also been a graduate Teaching Assistant for the undergraduate genetics lab for four semesters,
+conducted research into the undergraduate biology curriculum, served on the department's Diversity Council, and helped to organize the
+Life Sciences Diversity Recruitment Weekend.
