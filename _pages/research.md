@@ -16,8 +16,13 @@ In my Ph.D. work, I have examined several aspects of the replication timing prog
 
 <h3> Single-cell variation in replication timing </h3>
 
-<p style="text-align:center;"><img src="/images/Single-cell-Figure2a.jpg" width="150px"></p>
+<p style="text-align:center;"><img src="/images/Single-cell-Figure2a.jpg" width="700"></p>
+<i>Top: A replication timing profile inferred from aggregated single-cell data is very similar to a profile inferred from assaying a bulk population of cells. Bottom: Pileups of replicated regions across cells reveal shared, localized positions of replication initiation.</i>
 
+<br>
+<br>
+
+Replication timing has been observed to be highly reproducible across assays, yet the underlying mechanism(s) dictating its emergence are incompletely understood. To better understand what <i>kinds</i> of mechanisms might be responsible, we developed an approach to assay replication timing in thousands of single cells. We find that replication timing is remarkably consistent across cells, but nonetheless, cell-to-cell variability is evident. This variability is most compatible with the notion that replication timing arises from disparate origin firing probabilities rather than from some kind of global "metronome".
 
 <hr>
 <h2> Previous Research </h2>
