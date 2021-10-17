@@ -4,8 +4,9 @@ title: Teaching
 permalink: /teaching/
 ---
 
-I am extremely passionate about teaching and have 10 semesters of experience teaching undergraduate biology labs, as an undergraduate 
-Teaching Assistant, a laboratory coordinator, and a graduate Teaching Assistant. You can read about my teaching philosophy here.
+I have 10 semesters of experience teaching undergraduate biology labs, first as an undergraduate Teaching Assistant, then as a laboratory
+coordinator, and currently as a graduate Teaching Assistant. Read about my philosophy on teaching 
+<a href="/files/Teaching_Philosophy.pdf" target="_blank" rel="noopener noreferrer">here</a>.
 
 <h2> Cornell Undergraduate Lab in Genetics and Genomics </h2>
 
