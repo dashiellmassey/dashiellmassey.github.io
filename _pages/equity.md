@@ -25,10 +25,13 @@ interest in how socially-segregated interpersonal networks create persistent bar
   rather than from school administrators. </p>
   
 <p> In the subsequent 12+ years, I have consistently seen this pattern play out: inequitable access to <i>information</i> shapes inequitable
-  outcomes, even when efforts are made to create equitable policies. Thus, in my work with my department's 
-  <a href="https://www.cornellmbgdiversity.org/ target="_blank" rel="noopener noreferrer"> Diversity Council</a> 
-  I have focused my efforts on generating resources that make explicit and available to everyone the "informal" advice typically shared
-  by more senior friends or lab members. These projects have included:
+  outcomes, even when efforts are made to create equitable policies.
+</p>
+
+<p> Thus, in my work with my department's 
+  <a href="https://www.cornellmbgdiversity.org/" target="_blank" rel="noopener noreferrer"> Diversity Council</a>, 
+  I have focused my efforts on helping to generate resources that make explicit and available to everyone the "informal" advice typically
+  shared by more senior friends or lab members. These projects have included:
                                                                                                                
     <ul>
     
