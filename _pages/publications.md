@@ -3,11 +3,18 @@ layout: post
 title: Publications
 permalink: /publications/
 ---
+
+<h2> Preprints </h2>
+<ul>
+  <li> <b><i>Massey DJ</b></i>, Koren A. (2021). High-throughput analysis of DNA replication in single human cells reveals the complex nature of replication timing control.<i class='ai ai-biorxiv-square ai-lg></i></li>
+  </ul>
+    
+
 Publications (* indicates equal contribution)
 
 Primary Research Articles
 
-1.	Massey DJ, Koren A. (2021). High-throughput analysis of DNA replication in single human cells reveals the complex nature of replication timing control. Submitted.
+1.	 Submitted.
 
 2.	Yaacov A*, Vardi O*, Blumenfeld B, Greenberg A, Massey DJ, Koren A, Adar S, Simon I, Rosenberg S. (2021). Cancer mutational processes vary in their association with replication timing and chromatin accessibility. In press.
 
