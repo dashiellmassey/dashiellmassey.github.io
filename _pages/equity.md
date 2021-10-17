@@ -10,11 +10,11 @@ permalink: /equity/
 interest in how socially-segregated interpersonal networks create persistent barriers to equity, even when institutions have the best of intentions. In other words:</p>
 
 <p style="text-align:center;">
-  <b> How much of the "hidden curriculum" of academic success is learned from friends and not from formal programming?</b>
+  <b> How much of the "hidden curriculum" of academia is learned from friends and not from formal programming?</b>
 </p>
 
 <p style="text-align:center;">
-  <b>And what we know depends on who we happen to be friends with (which is hardly random), how do we level the playing field?</b>
+  <b>And what we know depends on who we are friends with (which is often not random), how do we level the playing field?</b>
 </p>
   
 <p> This interest dates back to high school: I grew up in Cambridge, MA, which spends more per student than any other urban district in 
