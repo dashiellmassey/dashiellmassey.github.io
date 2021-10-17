@@ -4,6 +4,16 @@ title: Research Interests
 permalink: /research/
 ---
 
+<h2> DNA replication timing in humans </h2>
+
+Efficient and accurate replication of the genome is a crucial prerequisite to successful cell proliferation, and defects in replication are associated with cancer, premature aging syndromes, and inviability. In eukaryotes, replication initiates at many replication origins across the genome, which fire at different times during the S phase of the cell cycle. This spatiotemporal organization of origin firing is termed the "DNA replication timing program" and has been associated with GC content, gene expression, chromatin structure, and local mutation rate.
+
+<br>
+
+In my Ph.D. work, I have examined several aspects of the replication timing program, each time with an eye toward method development:
+
+
+
 <hr>
 <h2> Previous Research </h2>
 
