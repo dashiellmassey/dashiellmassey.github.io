@@ -6,9 +6,10 @@ permalink: /equity/
 
 <h2> Social networks and the "hidden curriculum" </h2>
 
-<p> A throughline across the various diversity, equity, and inclusion (DEI) initiatives that I have participated in is my longstanding
+<p> A through line across the diversity, equity, and inclusion (DEI) initiatives that I have participated in is my longstanding
 interest in how socially-segregated interpersonal networks create persistent barriers to equity, even when institutions have the best of intentions. In other words: <b> how much of the "hidden curriculum" of academic success is learned from friends rather than through formal 
-  programming? </b></p>
+  programming? And what we know depends on who we happen to be friends with (which is hardly random), how do we level the playing field?
+  </b></p>
   
 <p> This interest dates back to high school: I grew up in Cambridge, MA, which spends more per student than any other urban district in 
   the state, and my high school had roughly equal proportions of white and Black students (each ~35%). Students were not "tracked" into
@@ -48,7 +49,7 @@ interest in how socially-segregated interpersonal networks create persistent bar
     <h2> Promoting Black biologists and science literacy </h2>
     
     <p> Over the past few years, I have been building a collection of "spotlights" on Black faculty, which I post on daily on Facebook
-    throughout the month of February. Each spotlight features the work of a Black biologist (incluing discussion of a primary research
+    throughout the month of February. Each spotlight features the work of a Black biologist (including discussion of a primary research
     article), aimed at a lay audience. My goals in writing these profiles are to:
     
     <ul>
