@@ -1,3 +1,8 @@
+---
+layout: post
+title: Publications
+permalink: /publications/
+---
 Publications (* indicates equal contribution)
 
 Primary Research Articles
