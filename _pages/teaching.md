@@ -5,7 +5,10 @@ permalink: /teaching/
 ---
 
 I have 10 semesters of experience teaching undergraduate biology labs, first as an undergraduate Teaching Assistant, then as a laboratory
-coordinator, and currently as a graduate Teaching Assistant. Read about my philosophy on teaching 
+coordinator, and currently as a graduate Teaching Assistant. These experiences are described below. In 2021, I was a recipient of the <b>Outstanding Graduate Teaching Assistant</b> award from the Cornell University College of Agriculture and Life Sciences.
+
+
+<p> You can read about my teaching philosophy 
 <a href="/files/Teaching_Philosophy.pdf" target="_blank" rel="noopener noreferrer">here</a>.
 
 <h2> Cornell Undergraduate Lab in Genetics and Genomics </h2>
