@@ -4,21 +4,19 @@ title: Publications
 permalink: /publications/
 ---
 
+<h4> <i> * indicates equal contribution </i></h4>
+
 <h2> Preprints </h2>
 <ul>
-  <li> <b><i>Massey DJ</b></i>, Koren A. (2021). <a href="https://www.biorxiv.org/content/10.1101/2021.05.14.443897v2">High-throughput analysis of DNA replication in single human cells reveals the complex nature of replication timing control.<i class='ai ai-biorxiv-square ai-lg'></i></a></li>
+  <li> <b><i>Massey DJ</b></i>, Koren A. (2021). <a href="https://doi.org/10.1101/2021.05.14.443897" target="_blank" rel="noopener noreferrer"> High-throughput analysis of DNA replication in single human cells reveals the complex nature of replication timing control. <i class='ai ai-biorxiv ai-lg'></i></a></li>
+  <li> Yaacov A*, Vardi O*, Blumenfeld B, Greenberg A, <b><i>Massey DJ</b></i>, Koren A, Adar S, Simon I, Rosenberg S. (2021). <a href="https://doi.org/10.1101/2021.05.05.442736" target="_blank" rel="noopener noreferrer"> Cancer mutational processes vary in their association with replication timing and chromatin accessibility.<i class='ai ai-biorxiv ai-lg'></i></a></li>
+  <li> Palmerola KL*, Amrane S*, De Los Angeles A*, Xu S, Zuccaro MV, <b><i>Massey DJ</b></i>, de Pinho J, Subbiah A, Prosser B, Lobo R, Koren A, Baslan T, Egli D. (2021). <a href="https://dx.doi.org/10.2139/ssrn.3825160" target="_blank" rel="noopener noreferrer"> DNA breaks due to replication stress limit the developmental potential of human preimplantation embryos.<i class='ai ai-ssrn ai-lg'></i></a></li>
 </ul>
     
 
-Publications (* indicates equal contribution)
+Publications ()
 
 Primary Research Articles
-
-1.	 Submitted.
-
-2.	Yaacov A*, Vardi O*, Blumenfeld B, Greenberg A, Massey DJ, Koren A, Adar S, Simon I, Rosenberg S. (2021). Cancer mutational processes vary in their association with replication timing and chromatin accessibility. In press.
-
-3.	Palmerola KL*, Amrane S*, De Los Angeles A*, Xu S, Zuccaro MV, Massey DJ, de Pinho J, Subbiah A, Prosser B, Lobo R, Koren A, Baslan T, Egli D. (2021). DNA breaks due to replication stress limit the developmental potential of human preimplantation embryos. In review.
 
 4.	Koren A, Massey DJ, Bracci AN. (2021). TIGER: inferring DNA replication timing from whole-genome sequence data. Bioinformatics btab166. DOI: 10.1093/bioinformatics/btab166
 
