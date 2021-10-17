@@ -7,7 +7,9 @@ permalink: /equity/
 <h2> Social networks and the "hidden curriculum" </h2>
 
 <p> A through line across the diversity, equity, and inclusion (DEI) initiatives that I have participated in is my longstanding
-interest in how socially-segregated interpersonal networks create persistent barriers to equity, even when institutions have the best of intentions. In other words: <b> how much of the "hidden curriculum" of academic success is learned from friends rather than through formal 
+interest in how socially-segregated interpersonal networks create persistent barriers to equity, even when institutions have the best of intentions. In other words:</p>
+
+<p style="text-align:center;"><b> how much of the "hidden curriculum" of academic success is learned from friends rather than through formal 
   programming? And what we know depends on who we happen to be friends with (which is hardly random), how do we level the playing field?
   </b></p>
   
