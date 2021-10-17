@@ -15,35 +15,6 @@ Efficient and accurate replication of the genome is a crucial prerequisite to su
 In my Ph.D. work, I have examined several aspects of the replication timing program, each time with an eye toward method development:
 <br>
 
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = document.getElementById(this.id+"data");
-    if (content.style.display === "block") {
-      content.style.display = "none";
-    } else {
-      content.style.display = "block";
-    }
-  });
-}
-</script>
-  
-<button type="button" class="collapsible" id="yaml">Single-cell variation in replication timing</button>
-
-<div class="content" id="yamldata" markdown="1">
-  <p style="text-align:center;"><img src="/images/Single-cell-Figure2a.jpg" width="700"></p>
-<i>Top: A replication timing profile inferred from aggregated single-cell data is very similar to a profile inferred from assaying a bulk population of cells. Bottom: Pileups of replicated regions across cells reveal shared, localized positions of replication initiation.</i>
-
-<br>
-<br>
-
-Replication timing has been observed to be highly reproducible across assays, yet the underlying mechanism(s) dictating its emergence are incompletely understood. To better understand what <i>kinds</i> of mechanisms might be responsible, we developed an approach to assay replication timing in thousands of single cells. We find that replication timing is remarkably consistent across cells, but nonetheless, cell-to-cell variability is evident. This variability is most compatible with the notion that replication timing arises from disparate origin firing probabilities rather than from some kind of global "metronome". 
-<a href="https://doi.org/10.1101/2021.05.14.443897" target="_blank" rel="noopener noreferrer">Read the manuscript on Biorxiv. <i class='ai ai-biorxiv ai-lg'></i></a>
-</div>
-
 <h3> Single-cell variation in replication timing </h3>
 
 <p style="text-align:center;"><img src="/images/Single-cell-Figure2a.jpg" width="700"></p>
