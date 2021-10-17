@@ -65,5 +65,5 @@ interest in how socially-segregated interpersonal networks create persistent bar
     target="_blank" rel="noopener noreferrer">2020</a> on Facebook.
 
    <p><i> If you are featured and would like to make an addition/correction (or if you would like me to take down your profile), please
-    <a href="mailto:dashiell.massey.web@gmail.com>let me know</a>! If you are a Black scientist who I have not written about and you would
+    <a href="mailto:dashiell.massey.web@gmail.com">let me know</a>! If you are a Black scientist who I have not written about and you would
   like to be featured in a future February, I would love to hear from you.</i>
