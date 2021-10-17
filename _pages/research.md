@@ -5,6 +5,7 @@ permalink: /research/
 ---
 
 <h2> DNA replication timing in humans </h2>
+<b> PI: Amnon Koren, Ph.D. (Cornell University) </b><br>
 
 Efficient and accurate replication of the genome is a crucial prerequisite to successful cell proliferation, and defects in replication are associated with cancer, premature aging syndromes, and inviability. In eukaryotes, replication initiates at many replication origins across the genome, which fire at different times during the S phase of the cell cycle. This spatiotemporal organization of origin firing is termed the "DNA replication timing program" and has been associated with GC content, gene expression, chromatin structure, and local mutation rate.
 
@@ -38,19 +39,24 @@ Replication timing can be inferred from local fluctuations in read depth in whol
 <h3> Replication timing of human centromeres  </h3>
 
 <p style="text-align:center;"><img src="/images/Centromeres-Figure5.jpg" width="400"></p>
-<i>An overview of the TIGER pipeline.</i>
+<i>Average replication timing of centromeres for five cell lines.</i>
 
 <br>
 <br>
 
-Centromeres are large, repetitive stretches of DNA that serve a critical structural role during cell division: the centromere is the attachment point for the mitotic spindle, which physically pulls the replicated sister chromatids apart into two daughter cells. Because of their repetitive sequence content, it is difficult to study their replication timing by sequencing. However, in collaboration with the <a href = "https://smolka.wicmb.cornell.edu/">Smolka lab</a>, we showed that the centromeric model sequences included in the hg38 reference genome, coupled with paired-end sequencing, were sufficient to generate provisional replication-timing profiles for the majority of human chromosomes. In contrast to other heterochromatin (which replicates late in S phase), we find the centromeres replicate in mid-S phase and that their replication timing varies more between cell lines than other regions. <a href="https://doi.org/10.3390/genes10040269" target="_blank" rel="noopener noreferrer">Read the paper in <i>Genes</i>. <i class='fa fa-link fa-lg'></i></a>
+Centromeres are large, repetitive stretches of DNA that serve a critical structural role during cell division: the centromere is the attachment point for the mitotic spindle, which physically pulls the replicated sister chromatids apart into two daughter cells. Because of their repetitive sequence content, it is difficult to study their replication timing by sequencing. However, in collaboration with the <a href = "https://smolka.wicmb.cornell.edu/" target="_blank" rel="noopener noreferrer">Smolka lab</a>, we showed that the centromeric model sequences included in the hg38 reference genome, coupled with paired-end sequencing, were sufficient to generate provisional replication-timing profiles for the majority of human chromosomes. In contrast to other heterochromatin (which replicates late in S phase), we find the centromeres replicate in mid-S phase and that their replication timing varies more between cell lines than other regions. <a href="https://doi.org/10.3390/genes10040269" target="_blank" rel="noopener noreferrer">Read the paper in <i>Genes</i>. <i class='fa fa-link fa-lg'></i></a>
 
 <hr>
+
 <h2> Previous Research </h2>
 
 <h3> Double-strand break repair in Drosophila melanogaster </h3>
 <b> PI: Jan LaRocque, Ph.D. (Georgetown University) </b><br>
-The frequency of DNA double-strand breaks (DSBs) occurring from stalled replication forks alone is estimated to be ~50 breaks per cell per cell division. Each such event can give rise to large-scale mutation events that must be triaged into a repair pathway or the apoptotic pathway to maintain genomic stability. Under the guidance of Dr. Jan LaRocque at Georgetown University, I investigated the relationship between DSB repair genes and aging in a fruit fly model. The model allowed us to study this process in vivo, which is unusual in the field. Rad51 plays an essential role early in homologous recombination-mediated (HR) repair of DSBs, coating the resected free ends of the break and promoting the invasion of a homologous template for repair synthesis. We hypothesized that diminished Rad51 transcript levels might explain the decreased frequency of HR that had been previously measured in older flies. To test this, I induced DSBs in male flies at several ages via a heat-inducible endonuclease transgene. I isolated mRNA at multiple time points after DSB induction, reverse-transcribed to cDNA, and analyzed transcript levels of Rad51 relative to two housekeeping genes by quantitative PCR. Contrary to our expectations, Rad51 expression increases with advancing age, even prior to DSB formation. Based on my protocol, other members of the lab were able to show similar results for other mRNA transcripts encoding repair proteins in the same pathway, suggesting that the HR machinery is upregulated in older age. I was actively involved throughout the project in designing experiments, selecting and troubleshooting protocols, performing fly genetics and molecular assays, analyzing the data, and writing the manuscript, now published in Aging Cell.
+<br>
+<p style="text-align:center;"><img src="/images/Aging-Cell-Figure3.jpg" width="400"></p>
+<i>Homologous recombination (HR) repair proteins are more highly expressed in older flies.</i>
+
+The frequency of DNA double-strand breaks (DSBs) occurring from stalled replication forks alone is estimated to be ~50 breaks per cell per cell division. Each such event can give rise to large-scale mutation events that must be triaged into a repair pathway or the apoptotic pathway to maintain genomic stability. In this project, we investigated the relationship between DSB repair genes and aging in a fruit fly model, hypothesizing that diminished expression of repair genes might explain the decreased frequency of homologous repair that had been previously measured in older flies. Contrary to this expectation, we found that the HR pathway was upregulated with advanced age, even in the absence of DNA damage. <a href="https://doi.org/10.1111/acel.12556" target="_blank" rel="noopener noreferrer">Read the paper in <i>Aging Cell</i>. <i class='fa fa-link fa-lg'></i></a>
 
 <h3> Predicting failed sternal re-approximation in neonates </h3>
 <b> PI: Catherine Allan, M.D. (Boston Children's Hospital) </b><br>
