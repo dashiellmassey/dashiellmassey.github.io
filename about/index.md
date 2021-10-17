@@ -1,6 +1,7 @@
 ---
 layout: post
 title: About Me
+permalink: /about2/
 ---
 <p>
 This theme is available for free under the MIT open source software license.
