@@ -9,9 +9,32 @@ permalink: /research/
 Efficient and accurate replication of the genome is a crucial prerequisite to successful cell proliferation, and defects in replication are associated with cancer, premature aging syndromes, and inviability. In eukaryotes, replication initiates at many replication origins across the genome, which fire at different times during the S phase of the cell cycle. This spatiotemporal organization of origin firing is termed the "DNA replication timing program" and has been associated with GC content, gene expression, chromatin structure, and local mutation rate.
 
 <br>
+<br>
 
 In my Ph.D. work, I have examined several aspects of the replication timing program, each time with an eye toward method development:
+<br>
 
+<h3> Single-cell variation in replication timing </h3>
+
+<article style="padding:0px">
+    <div class="grid" style="display:flex; align-items:stretch">
+
+        <div class="col-1-2 .d-md-none">
+            <div style="
+            display:table-cell;
+            float:left;
+            width:100%;
+            height:100%;
+            background-image: url(/images/Single-cell-Figure2a.jpg);
+            background-size:cover;
+            background-position:center">
+        </div></div>
+
+        <div class="col-1-2">
+            Test
+        </div>
+</div>
+</article>
 
 
 <hr>
