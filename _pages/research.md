@@ -38,6 +38,7 @@ Replication timing has been observed to be highly reproducible across assays, ye
 Replication timing can be inferred from local fluctuations in read depth in whole-genome sequencing. However, a number of other factors (GC content, mappability biases, copy-number variations) can also impact read depth. Traditionally, these factors have been accounted for by sequencing a control sample of non-replicating (G1) cells in addition to a purified replication (S-phase) sample. I contributed to the development of TIGER (Timing Inferred from Genome Replication), a pipeline for simulating a control sample to correct these confounding factors from a single unsorted sample for more accurate replication-timing measurement. 
 <a href="https://doi.org/10.1093/bioinformatics/btab166" target="_blank" rel="noopener noreferrer">Read the paper in <i>Bioinformatics</i>. <i class='fa fa-link fa-lg'></i></a>
 
+<hr style="height:1px; border:none; color:#4A1486; background-color:#4A1486;">
 <h3> Replication timing of human centromeres  </h3>
 
 <p style="text-align:center;"><img src="/images/Centromeres-Figure5.jpg" width="400"></p>
@@ -65,6 +66,7 @@ Centromeres are large, repetitive stretches of DNA that serve a critical structu
 The frequency of DNA double-strand breaks (DSBs) occurring from stalled replication forks alone is estimated to be ~50 breaks per cell per cell division. Each such event can give rise to large-scale mutation events that must be triaged into a repair pathway or the apoptotic pathway to maintain genomic stability. In this project, we investigated the relationship between DSB repair genes and aging in a fruit fly model, hypothesizing that diminished expression of repair genes might explain the decreased frequency of homologous repair that had been previously measured in older flies. Contrary to this expectation, we find that the HR pathway was upregulated with advanced age, even in the absence of DNA damage. 
 <a href="https://doi.org/10.1111/acel.12556" target="_blank" rel="noopener noreferrer">Read the paper in <i>Aging Cell</i>. <i class='fa fa-link fa-lg'></i></a>
 
+<hr style="height:1px; border:none; color:#4A1486; background-color:#4A1486;">
 <h3> Predicting failed sternal re-approximation in neonates </h3>
 <h4> PI: Catherine Allan, M.D. (Boston Children's Hospital) </h4>
 
@@ -72,6 +74,7 @@ Swelling of the heart and lungs is a common, but often dangerous, occurrence in 
 <br>
 <a href="https://www.ahajournals.org/doi/abs/10.1161/circ.130.suppl_2.19663" target="_blank" rel="noopener noreferrer">Read the conference abstract. <i class='fa fa-link fa-lg'></i></a>
 
+<hr style="height:1px; border:none; color:#4A1486; background-color:#4A1486;">
 <h3> Peripheral nerve regeneration in aging mice </h3>
 <h4> PI: Clifford Woolf, M.B. B.Ch. Ph.D (Harvard Medical School) </h4>
 
