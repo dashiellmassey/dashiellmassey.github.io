@@ -118,7 +118,7 @@ svg:not(:root) {
     }
     
     a:hover {
-        color: lighten($base-color,60);
+        color: lighten($base-color,10);
     }
     
     word-spacing: 10px;
