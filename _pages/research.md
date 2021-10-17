@@ -50,7 +50,9 @@ Replication timing can be inferred from local fluctuations in read depth in whol
 Centromeres are large, repetitive stretches of DNA that serve a critical structural role during cell division: the centromere is the attachment point for the mitotic spindle, which physically pulls the replicated sister chromatids apart into two daughter cells. Because of their repetitive sequence content, it is difficult to study their replication timing by sequencing. However, in collaboration with the <a href = "https://smolka.wicmb.cornell.edu/" target="_blank" rel="noopener noreferrer">Smolka lab</a>, we showed that the centromeric model sequences included in the hg38 reference genome, coupled with paired-end sequencing, were sufficient to generate provisional replication-timing profiles for the majority of human chromosomes. In contrast to other heterochromatin (which replicates late in S phase), we find the centromeres replicate in mid-S phase and that their replication timing varies more between cell lines than other regions. 
 <a href="https://doi.org/10.3390/genes10040269" target="_blank" rel="noopener noreferrer">Read the paper in <i>Genes</i>. <i class='fa fa-link fa-lg'></i></a>
 
-<hr>
+<hr style="height:1px; border:none; color:#4A1486; background-color:#4A1486;">
+
+<br>
 
 <h2> Previous Research </h2>
 
