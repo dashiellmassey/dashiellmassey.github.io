@@ -14,7 +14,7 @@ interest in how socially-segregated interpersonal networks create persistent bar
 </p>
 
 <p style="text-align:center;">
-  <b>And what we know depends on who we are friends with (which is often not random), how do we level the playing field?</b>
+  <b>And if what we know depends on <i>who</i> we know, how do we level the playing field?</b>
 </p>
   
 <p> This interest dates back to high school: I grew up in Cambridge, MA, which spends more per student than any other urban district in 
