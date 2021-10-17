@@ -58,3 +58,4 @@ exclude:
   - package.json
   - spec
   - tmp
+  - archives
