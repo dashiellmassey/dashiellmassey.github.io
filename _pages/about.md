@@ -3,7 +3,7 @@ layout: post
 title: About Me
 permalink: /about/
 ---
-<img src="/images/headshot.jpg" width="300px">
+<img src="/images/CSHL.jpg" width="150px">
 
 I grew up in Cambridge, MA.
 
