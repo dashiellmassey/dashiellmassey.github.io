@@ -1,14 +1,13 @@
 ---
 layout: post
 title: Current Research Interests
-subtitle: <a href="/past-research">To read about my previous research, click here </a>.
+subtitle: <a href="/past-research">To read about my previous research, click <u>here</u></a>.
 permalink: /research/
 ---
 
 <h2> DNA replication timing in humans </h2>
-<h4> PI: Amnon Koren, Ph.D. (Cornell University) </h4>
 
-Efficient and accurate replication of the genome is a crucial prerequisite to successful cell proliferation, and defects in replication are associated with cancer, premature aging syndromes, and inviability. In eukaryotes, replication initiates at many replication origins across the genome, which fire at different times during the S phase of the cell cycle. This spatiotemporal organization of origin firing is termed the "DNA replication timing program" and has been associated with GC content, gene expression, chromatin structure, and local mutation rate.
+Accurate and efficient replication of the genome is a crucial prerequisite to successful cell proliferation, and defects in replication are associated with cancer, premature aging syndromes, and cell death. In eukaryotes, replication initiates at many replication origins across the genome, which fire at different times during the S phase of the cell cycle. This spatiotemporal organization of origin firing is termed the "DNA replication timing program" and has been associated with GC content, gene expression, chromatin structure, and local mutation rate.
 
 <br>
 <br>
@@ -24,7 +23,7 @@ In my Ph.D. work, I have examined several aspects of the replication timing prog
 <br>
 <br>
 
-Replication timing has been observed to be highly reproducible across assays, yet the underlying mechanism(s) dictating its emergence are incompletely understood. To better understand what <i>kinds</i> of mechanisms might be responsible, we developed an approach to assay replication timing in thousands of single cells. We find that replication timing is remarkably consistent across cells, but nonetheless, cell-to-cell variability is evident. This variability is most compatible with the notion that replication timing arises from disparate origin firing probabilities rather than from some kind of global "metronome". 
+Replication timing has been observed to be highly reproducible across assays, yet the underlying mechanism(s) dictating its emergence are incompletely understood. To better parse out what <i>kinds</i> of mechanisms might be responsible, we developed an approach to assay replication timing in thousands of single cells. We find that replication timing is remarkably consistent across cells, but nonetheless, cell-to-cell variability is evident. This variability is most compatible with the notion that replication timing arises from disparate origin firing probabilities rather than from some kind of global "metronome". 
 <a href="https://doi.org/10.1101/2021.05.14.443897" target="_blank" rel="noopener noreferrer">Read the manuscript on Biorxiv. <i class='ai ai-biorxiv ai-lg'></i></a>
 
 <hr style="height:1px; border:none; color:#4A1486; background-color:#4A1486;">
@@ -36,7 +35,7 @@ Replication timing has been observed to be highly reproducible across assays, ye
 <br>
 <br>
 
-Replication timing can be inferred from local fluctuations in read depth in whole-genome sequencing. However, a number of other factors (GC content, mappability biases, copy-number variations) can also impact read depth. Traditionally, these factors have been accounted for by sequencing a control sample of non-replicating (G1) cells in addition to a purified replication (S-phase) sample. I contributed to the development of TIGER (Timing Inferred from Genome Replication), a pipeline for simulating a control sample to correct these confounding factors from a single unsorted sample for more accurate replication-timing measurement. 
+Replication timing can be inferred from local fluctuations in read depth in whole-genome sequencing. However, a number of other factors (GC content, mappability biases, copy-number variations) can also impact read depth. Traditionally, these factors have been accounted for by sequencing a control sample of non-replicating (G1) cells in addition to a replicating (S-phase) sample. I contributed to the development of TIGER (<i>T</i>iming <i>I<i>nferred from <i>Ge</i>nome <i>R</i>eplication), a pipeline for simulating a control sample to correct these confounding factors in a single unsorted sample. 
 <a href="https://doi.org/10.1093/bioinformatics/btab166" target="_blank" rel="noopener noreferrer">Read the paper in <i>Bioinformatics</i>. <i class='fa fa-link fa-lg'></i></a>
 
 <hr style="height:1px; border:none; color:#4A1486; background-color:#4A1486;">
@@ -48,5 +47,6 @@ Replication timing can be inferred from local fluctuations in read depth in whol
 <br>
 <br>
 
-Centromeres are large, repetitive stretches of DNA that serve a critical structural role during cell division: the centromere is the attachment point for the mitotic spindle, which physically pulls the replicated sister chromatids apart into two daughter cells. Because of their repetitive sequence content, it is difficult to study their replication timing by sequencing. However, in collaboration with the <a href = "https://smolka.wicmb.cornell.edu/" target="_blank" rel="noopener noreferrer">Smolka lab</a>, we showed that the centromeric model sequences included in the hg38 reference genome, coupled with paired-end sequencing, were sufficient to generate provisional replication-timing profiles for the majority of human chromosomes. In contrast to other heterochromatin (which replicates late in S phase), we find the centromeres replicate in mid-S phase and that their replication timing varies more between cell lines than other regions. 
+Centromeres are large, repetitive stretches of DNA that serve a critical structural role during cell division: the centromere is the attachment point for the mitotic spindle, which physically pulls the replicated sister chromatids apart into two daughter cells. Because of this repetitive sequence content, it is difficult to study centromere replication timing by sequencing. However, in collaboration with the <a href = "https://smolka.wicmb.cornell.edu/" target="_blank" rel="noopener noreferrer">Smolka lab</a>, we showed that the centromeric model sequences included in the hg38 reference genome, coupled with paired-end sequencing, were sufficient to generate provisional replication-timing profiles for the majority of human chromosomes. In contrast to other heterochromatin (which replicates late in S phase), we find the centromeres replicate in mid-S phase and that centromeric replication timing is hyper-variable between cell lines, relative to 
+  other genomic regions. 
 <a href="https://doi.org/10.3390/genes10040269" target="_blank" rel="noopener noreferrer">Read the paper in <i>Genes</i>. <i class='fa fa-link fa-lg'></i></a>
