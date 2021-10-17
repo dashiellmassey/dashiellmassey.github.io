@@ -70,7 +70,7 @@ The frequency of DNA double-strand breaks (DSBs) occurring from stalled replicat
 <a href="https://doi.org/10.1111/acel.12556" target="_blank" rel="noopener noreferrer">Read the paper in <i>Aging Cell</i>. <i class='fa fa-link fa-lg'></i></a>
 
 <hr style="height:1px; border:none; color:#4A1486; background-color:#4A1486;">
-<h3> Predicting failed sternal re-approximation in neonates </h3>
+<h3> Predicting failed sternal re-approximation in neonatal cardiac patients </h3>
 <h4> PI: Catherine Allan, M.D. (Boston Children's Hospital) </h4>
 
 Swelling of the heart and lungs is a common, but often dangerous, occurrence in the aftermath of open-heart surgery. Due to their small size, neonates are particularly vulnerable to such swelling and its consequences. Therefore, it is common practice to leave the chest cavity open in the immediate post-operative period to allow swelling to reduce and permit direct monitoring of the heart. However, the consequences of delayed sternal re-approximation on infection and mortality are a matter of debate among cardiac intensivists. In this study, we performed a retrospective medical chart review to investigate predictors of negative outcomes from this procedure. We find that patients requiring lower levels of mechanical ventilation had significantly lower odds of poor outcome, whereas hemodynamic parameters were not predictive of outcome.
