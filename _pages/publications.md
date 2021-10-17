@@ -6,7 +6,7 @@ permalink: /publications/
 
 <h4> <i> * indicates equal contribution </i></h4>
 
-<h2> Preprints </h2>
+<h3> Preprints </h3>
 <ul>
   <li> <b><i>Massey DJ</b></i>, Koren A. (2021). <a href="https://doi.org/10.1101/2021.05.14.443897" target="_blank" rel="noopener noreferrer"> High-throughput analysis of DNA replication in single human cells reveals the complex nature of replication timing control.  <i class='ai ai-biorxiv ai-lg'></i></a></li>
   <br>
@@ -15,7 +15,7 @@ permalink: /publications/
   <li> Palmerola KL*, Amrane S*, De Los Angeles A*, Xu S, Zuccaro MV, <b><i>Massey DJ</b></i>, de Pinho J, Subbiah A, Prosser B, Lobo R, Koren A, Baslan T, Egli D. (2021). <a href="https://dx.doi.org/10.2139/ssrn.3825160" target="_blank" rel="noopener noreferrer"> DNA breaks due to replication stress limit the developmental potential of human preimplantation embryos.  <i class='ai ai-ssrn ai-lg'></i></a></li>
 </ul>
     
-<h2> Published </h2>
+<h3> Published </h3>
 
 <ul>
   <li>Koren A, <b><i>Massey DJ</b></i>, Bracci AN. (2021). <a href="https://doi.org/10.1093/bioinformatics/btab166" target="_blank" rel="noopener noreferrer"> TIGER: inferring DNA replication timing from whole-genome sequence data. </a> <i> Bioinformatics </i> btab166 </li>
