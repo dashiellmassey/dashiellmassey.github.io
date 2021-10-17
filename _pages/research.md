@@ -15,6 +15,22 @@ Efficient and accurate replication of the genome is a crucial prerequisite to su
 In my Ph.D. work, I have examined several aspects of the replication timing program, each time with an eye toward method development:
 <br>
 
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = document.getElementById(this.id+"data");
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+  
 <button type="button" class="collapsible" id="yaml">Single-cell variation in replication timing</button>
 
 <div class="content" id="yamldata" markdown="1">
