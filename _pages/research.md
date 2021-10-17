@@ -4,7 +4,7 @@ title: Current Research Interests
 permalink: /research/
 ---
 
-<h3> To read about my previous research, click here. </h3>
+To read about my previous research, click <a href="/past-research"> here </a>.
 
 <h2> DNA replication timing in humans </h2>
 <h4> PI: Amnon Koren, Ph.D. (Cornell University) </h4>
