@@ -32,7 +32,7 @@ Replication timing has been observed to be highly reproducible across assays, ye
 <br>
 <br>
 
-Replication timing can be inferred from local fluctuations in read depth in whole-genome sequencing. However, a number of other factors (GC content, mappability biases, copy-number variations) can also impact read depth. I contributed to the development of TIGER (Timing Inferred from Genome Replication), a pipeline for correcting these confounding factors for more accurate replication-timing measurement. <a href="https://doi.org/10.1093/bioinformatics/btab166" target="_blank" rel="noopener noreferrer">Click here to read the paper in <i>Bioinformatics</i>. <i class='fa fa-external-link-square fa-lg'></i></a>
+Replication timing can be inferred from local fluctuations in read depth in whole-genome sequencing. However, a number of other factors (GC content, mappability biases, copy-number variations) can also impact read depth. I contributed to the development of TIGER (Timing Inferred from Genome Replication), a pipeline for correcting these confounding factors for more accurate replication-timing measurement. <a href="https://doi.org/10.1093/bioinformatics/btab166" target="_blank" rel="noopener noreferrer">Click here to read the paper in <i>Bioinformatics</i>. <i class='fa fa-link fa-lg'></i></a>
 
 <hr>
 <h2> Previous Research </h2>
