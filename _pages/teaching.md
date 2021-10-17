@@ -5,32 +5,36 @@ permalink: /teaching/
 ---
 
 I have 10 semesters of experience teaching undergraduate biology labs, first as an undergraduate Teaching Assistant, then as a laboratory
-coordinator, and currently as a graduate Teaching Assistant. These experiences are described below. In 2021, I was a recipient of the <b>Outstanding Graduate Teaching Assistant</b> award from the Cornell University College of Agriculture and Life Sciences.
+coordinator, and currently as a graduate Teaching Assistant. These experiences are described below.
 
+<p> In 2021, I was a recipient of the <b>Outstanding Graduate Teaching Assistant</b> award from the Cornell University College of Agriculture and Life Sciences.
 
 <p> You can read about my teaching philosophy 
 <a href="/files/Teaching_Philosophy.pdf" target="_blank" rel="noopener noreferrer">here</a>.
 
-<h2> Cornell Undergraduate Lab in Genetics and Genomics </h2>
+<hr style="height:1px; border:none; color:#4A1486; background-color:#4A1486;">
 
-<p> I have been a Teaching Assistant for BIOMG 2801, the undergraduate Laboratory in Genetics and Genomics, four times. This role has 
-  entailed teaching lab sections of 18-20 students; grading assignments, lab reports, and exams; and holding weekly office hours. I have
-  received excellent teaching evaluations from students, and have served as a leader in weekly TA meetings, developing rubrics to improve
-  consistency in grading between TAs – a challenge in a course with eight graduate student TAs.
+<h2> Cornell University </h2>
+<h3> BIOMG 2801, Undergraduate Lab in Genetics and Genomics (2018, 2019, 2020)</h3>
 
-<p> During this time, I have assisted in two major transitions in the BIOMG 2801 course. First, the entire curriculum was redesigned in
-  2018, replacing a series of one-off lab exercises with a set of three interconnected semester-long projects. In Spring 2019, I was part
-  of the first cohort of TAs to participate in the rollout of this new curriculum. Although the new curriculum had been tested out on ~20
-  students (and a single TA) prior to this, there were numerous challenges associated with translating that to a course of ~150 students
-  with multiple TAs. I was heavily involved in proofreading new assignment and exam questions, and in sorting out logistical challenges 
-  that came with scaling up the new labs in real time.
-
-<p> Second, we were forced to transition the course to an online format due to the COVID-19 pandemic. As you can imagine, moving a
-  hands-on lab course to Zoom required not only the development of new course materials, but also a broader rethinking of content delivery.
-  I worked closely with Dr. Kristina Blake to implement this new version during the Summer 2020 term, when there were only 19 students
-  enrolled. Then, in the Fall 2020 semester, I helped lead the adoption of this online-only version of the course, when we had 8 graduate
-  TAs (including me), 16 undergraduate TAs, and ~150 students.
-
+<p> BIOMG 2801, a stand-alone lab course, is a required course for the undergraduate biology major. The student population is primarily 
+  juniors and seniors. As a TA, my responsibilities included:
+  
+  <ul>
+    <li> teaching lab sections of 18-20 students </li>
+    <li> grading assignments, lab reports, and exams </li>
+    <li> holding weekly office hours </li>
+  </ul>
+  
+<p> In the four semesters that I have been a TA for this course, I have taken on additoinal leadership roles, involving:
+  
+  <ul>
+    <li> participating in proofreading new assignment and exam questions during a large curricular overhaul</li>
+    <li> piloting an all-virtual summer session in preparation for the Fall 2020 semester</li>
+    <li> co-leading weekly TA meetings, and</li>
+    <li> developing grading rubrics for student work</li>
+  </ul>
+  
 <hr style="height:1px; border:none; color:#4A1486; background-color:#4A1486;">
 
 <h2> Cornell Scholarship of Teaching and Learning program </h2>
