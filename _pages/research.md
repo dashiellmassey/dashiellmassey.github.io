@@ -23,8 +23,7 @@ In my Ph.D. work, I have examined several aspects of the replication timing prog
 <br>
 <br>
 
-Replication timing has been observed to be highly reproducible across assays, yet the underlying mechanism(s) dictating its emergence are incompletely understood. To better understand what <i>kinds</i> of mechanisms might be responsible, we developed an approach to assay replication timing in thousands of single cells. We find that replication timing is remarkably consistent across cells, but nonetheless, cell-to-cell variability is evident. This variability is most compatible with the notion that replication timing arises from disparate origin firing probabilities rather than from some kind of global "metronome".
-<br>
+Replication timing has been observed to be highly reproducible across assays, yet the underlying mechanism(s) dictating its emergence are incompletely understood. To better understand what <i>kinds</i> of mechanisms might be responsible, we developed an approach to assay replication timing in thousands of single cells. We find that replication timing is remarkably consistent across cells, but nonetheless, cell-to-cell variability is evident. This variability is most compatible with the notion that replication timing arises from disparate origin firing probabilities rather than from some kind of global "metronome". 
 <a href="https://doi.org/10.1101/2021.05.14.443897" target="_blank" rel="noopener noreferrer">Read the manuscript on Biorxiv. <i class='ai ai-biorxiv ai-lg'></i></a>
 
 <h3> Inferring replication timing without cell sorting  </h3>
@@ -35,8 +34,7 @@ Replication timing has been observed to be highly reproducible across assays, ye
 <br>
 <br>
 
-Replication timing can be inferred from local fluctuations in read depth in whole-genome sequencing. However, a number of other factors (GC content, mappability biases, copy-number variations) can also impact read depth. Traditionally, these factors have been accounted for by sequencing a control sample of non-replicating (G1) cells in addition to a purified replication (S-phase) sample. I contributed to the development of TIGER (Timing Inferred from Genome Replication), a pipeline for simulating a control sample to correct these confounding factors from a single unsorted sample for more accurate replication-timing measurement.
-<br>
+Replication timing can be inferred from local fluctuations in read depth in whole-genome sequencing. However, a number of other factors (GC content, mappability biases, copy-number variations) can also impact read depth. Traditionally, these factors have been accounted for by sequencing a control sample of non-replicating (G1) cells in addition to a purified replication (S-phase) sample. I contributed to the development of TIGER (Timing Inferred from Genome Replication), a pipeline for simulating a control sample to correct these confounding factors from a single unsorted sample for more accurate replication-timing measurement. 
 <a href="https://doi.org/10.1093/bioinformatics/btab166" target="_blank" rel="noopener noreferrer">Read the paper in <i>Bioinformatics</i>. <i class='fa fa-link fa-lg'></i></a>
 
 <h3> Replication timing of human centromeres  </h3>
@@ -47,8 +45,7 @@ Replication timing can be inferred from local fluctuations in read depth in whol
 <br>
 <br>
 
-Centromeres are large, repetitive stretches of DNA that serve a critical structural role during cell division: the centromere is the attachment point for the mitotic spindle, which physically pulls the replicated sister chromatids apart into two daughter cells. Because of their repetitive sequence content, it is difficult to study their replication timing by sequencing. However, in collaboration with the <a href = "https://smolka.wicmb.cornell.edu/" target="_blank" rel="noopener noreferrer">Smolka lab</a>, we showed that the centromeric model sequences included in the hg38 reference genome, coupled with paired-end sequencing, were sufficient to generate provisional replication-timing profiles for the majority of human chromosomes. In contrast to other heterochromatin (which replicates late in S phase), we find the centromeres replicate in mid-S phase and that their replication timing varies more between cell lines than other regions.
-<br>
+Centromeres are large, repetitive stretches of DNA that serve a critical structural role during cell division: the centromere is the attachment point for the mitotic spindle, which physically pulls the replicated sister chromatids apart into two daughter cells. Because of their repetitive sequence content, it is difficult to study their replication timing by sequencing. However, in collaboration with the <a href = "https://smolka.wicmb.cornell.edu/" target="_blank" rel="noopener noreferrer">Smolka lab</a>, we showed that the centromeric model sequences included in the hg38 reference genome, coupled with paired-end sequencing, were sufficient to generate provisional replication-timing profiles for the majority of human chromosomes. In contrast to other heterochromatin (which replicates late in S phase), we find the centromeres replicate in mid-S phase and that their replication timing varies more between cell lines than other regions. 
 <a href="https://doi.org/10.3390/genes10040269" target="_blank" rel="noopener noreferrer">Read the paper in <i>Genes</i>. <i class='fa fa-link fa-lg'></i></a>
 
 <hr>
@@ -64,14 +61,15 @@ Centromeres are large, repetitive stretches of DNA that serve a critical structu
 <br>
 <br>
 
-The frequency of DNA double-strand breaks (DSBs) occurring from stalled replication forks alone is estimated to be ~50 breaks per cell per cell division. Each such event can give rise to large-scale mutation events that must be triaged into a repair pathway or the apoptotic pathway to maintain genomic stability. In this project, we investigated the relationship between DSB repair genes and aging in a fruit fly model, hypothesizing that diminished expression of repair genes might explain the decreased frequency of homologous repair that had been previously measured in older flies. Contrary to this expectation, we find that the HR pathway was upregulated with advanced age, even in the absence of DNA damage.
-<br>
+The frequency of DNA double-strand breaks (DSBs) occurring from stalled replication forks alone is estimated to be ~50 breaks per cell per cell division. Each such event can give rise to large-scale mutation events that must be triaged into a repair pathway or the apoptotic pathway to maintain genomic stability. In this project, we investigated the relationship between DSB repair genes and aging in a fruit fly model, hypothesizing that diminished expression of repair genes might explain the decreased frequency of homologous repair that had been previously measured in older flies. Contrary to this expectation, we find that the HR pathway was upregulated with advanced age, even in the absence of DNA damage. 
 <a href="https://doi.org/10.1111/acel.12556" target="_blank" rel="noopener noreferrer">Read the paper in <i>Aging Cell</i>. <i class='fa fa-link fa-lg'></i></a>
 
 <h3> Predicting failed sternal re-approximation in neonates </h3>
 <h4> PI: Catherine Allan, M.D. (Boston Children's Hospital) </h4>
 
-Swelling of the heart and lungs is a common, but often dangerous, occurrence in the aftermath of open-heart surgery. Due to their small size, neonates are particularly vulnerable to such swelling and its consequences. Therefore, it is common practice to leave the chest cavity open in the immediate post-operative period to allow swelling to reduce and permit direct monitoring of the heart. However, the consequences of delayed sternal re-approximation on infection and mortality are a matter of debate among cardiac intensivists. In this study, we performed a retrospective medical chart review to investigate predictors of negative outcomes from this procedure. We find that patients requiring lower levels of mechanical ventilation had significantly lower odds of poor outcome, whereas hemodynamic parameters were not predictive of outcome. <a href="https://www.ahajournals.org/doi/abs/10.1161/circ.130.suppl_2.19663" target="_blank" rel="noopener noreferrer">Read the conference abstract. <i class='fa fa-link fa-lg'></i></a>
+Swelling of the heart and lungs is a common, but often dangerous, occurrence in the aftermath of open-heart surgery. Due to their small size, neonates are particularly vulnerable to such swelling and its consequences. Therefore, it is common practice to leave the chest cavity open in the immediate post-operative period to allow swelling to reduce and permit direct monitoring of the heart. However, the consequences of delayed sternal re-approximation on infection and mortality are a matter of debate among cardiac intensivists. In this study, we performed a retrospective medical chart review to investigate predictors of negative outcomes from this procedure. We find that patients requiring lower levels of mechanical ventilation had significantly lower odds of poor outcome, whereas hemodynamic parameters were not predictive of outcome.
+<br>
+<a href="https://www.ahajournals.org/doi/abs/10.1161/circ.130.suppl_2.19663" target="_blank" rel="noopener noreferrer">Read the conference abstract. <i class='fa fa-link fa-lg'></i></a>
 
 <h3> Peripheral nerve regeneration in aging mice </h3>
 <h4> PI: Clifford Woolf, M.B. B.Ch. Ph.D (Harvard Medical School) </h4>
