@@ -65,6 +65,5 @@ interest in how socially-segregated interpersonal networks create persistent bar
     target="_blank" rel="noopener noreferrer">2020</a>.
 
    <p><i> If you are featured and would like to make an addition/correction (or if you would like me to take down your profile), please
-    let me know!</i><br>
-    <i> If you are Black scientist who I have not written about and you would like to be featured in a future February, I would love to
-    hear from you.</i>
+    let me know! If you are Black scientist who I have not written about and you would like to be featured in a future February, I would 
+    love to hear from you.</i>
