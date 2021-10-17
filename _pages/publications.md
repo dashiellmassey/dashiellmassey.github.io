@@ -6,8 +6,8 @@ permalink: /publications/
 
 <h2> Preprints </h2>
 <ul>
-  <li> <b><i>Massey DJ</b></i>, Koren A. (2021). High-throughput analysis of DNA replication in single human cells reveals the complex nature of replication timing control.<i class='ai ai-biorxiv-square ai-lg></i></li>
-  </ul>
+  <li> <b><i>Massey DJ</b></i>, Koren A. (2021). <a href="https://www.biorxiv.org/content/10.1101/2021.05.14.443897v2">High-throughput analysis of DNA replication in single human cells reveals the complex nature of replication timing control.<i class='ai ai-biorxiv-square ai-lg'></i></a></li>
+</ul>
     
 
 Publications (* indicates equal contribution)
