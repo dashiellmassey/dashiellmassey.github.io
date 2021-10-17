@@ -54,6 +54,7 @@ Centromeres are large, repetitive stretches of DNA that serve a critical structu
 
 <h2> Previous Research </h2>
 
+<hr> 
 <h3> Double-strand break repair in Drosophila melanogaster </h3>
 <h4> PI: Jan LaRocque, Ph.D. (Georgetown University) </h4>
 
