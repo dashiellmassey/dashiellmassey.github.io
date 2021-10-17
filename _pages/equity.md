@@ -57,6 +57,14 @@ interest in how socially-segregated interpersonal networks create persistent bar
     <li> challenge preconceived notions about a scientist "looks like" </li>
     </ul>
     
-https://www.facebook.com/dashiell.massey/media_set?set=a.10155110580103606&type=3
-https://www.facebook.com/dashiell.massey/media_set?set=a.10156316325418606&type=3
-https://www.facebook.com/dashiell.massey/media_set?set=a.10158452513103606&type=3
+<p> Check out the profiles from <a href="https://www.facebook.com/dashiell.massey/media_set?set=a.10155110580103606&type=3"
+    target="_blank" rel="noopener noreferrer">2017</a>, 
+    <a href="https://www.facebook.com/dashiell.massey/media_set?set=a.10156316325418606&type=3"
+    target="_blank" rel="noopener noreferrer">2018</a>,
+    and <a href="https://www.facebook.com/dashiell.massey/media_set?set=a.10158452513103606&type=3"
+    target="_blank" rel="noopener noreferrer">2020</a>.
+
+   <p><i> If you are featured and would like to make an addition/correction (or if you would like me to take down your profile), please
+    let me know!</i><br>
+    <i> If you are Black scientist who I have not written about and you would like to be featured in a future February, I would love to
+    hear from you.</i>
