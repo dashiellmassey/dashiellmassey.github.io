@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Teaching
+title: Teaching Experience
 permalink: /teaching/
 ---
 
@@ -10,7 +10,7 @@ coordinator, and currently as a graduate Teaching Assistant. These experiences a
 <p> You can read about my teaching philosophy 
 <a href="/files/Teaching_Philosophy.pdf" target="_blank" rel="noopener noreferrer">here</a>.
 
-<hr style="height:1px; border:none; color:#4A1486; background-color:#4A1486;">
+<hr>
 
 <h2> Cornell University </h2>
 
@@ -24,6 +24,7 @@ coordinator, and currently as a graduate Teaching Assistant. These experiences a
   <ul>
     <li> teaching lab sections of 18-20 students </li>
     <li> grading assignments, lab reports, and exams </li>
+    <li> supervising undergraduate Teaching Assistants </li>
     <li> holding weekly office hours </li>
   </ul>
   
@@ -60,23 +61,40 @@ coordinator, and currently as a graduate Teaching Assistant. These experiences a
  <hr>
 
 <h2> Georgetown University </h2>
-<h3> Laboratory Coordinator </h3>
+<h3> Laboratory Coordinator (2014-2016) </h3>
   
-<p> Between college and graduate school, I worked full-time at Georgetown University, supporting laboratory instruction in the Department
-  of Human Science. I coordinated all lab sections for the anatomy and physiology, genetics, microbiology, and cell biology courses, which
-  involved ~20 hours per week in the teaching lab with students – demonstrating techniques, answering questions, encouraging conversations
-  within lab groups – as well as preparing teaching materials, overseeing TAs, and doing all of the behind-the-scenes technical
-  preparations. When not supporting classroom teaching, I was responsible for managing the shared research lab of six faculty members,
-  which often entailed helping their undergraduate research students run experiments or analyze results.
+<p> As the laboratory coordinator for the <a href="https://nhs.georgetown.edu/research-learning-community/discovery-center/" 
+                                             target="_blank" rel="noopener noreferrer">Discovery Center</a> in the
+  <a href="https://nhs.georgetown.edu/about/human-science-department/" 
+                                             target="_blank" rel="noopener noreferrer">Department of Human Science</a>,
+  I supported laboratory instruction for the anatomy and physiology, genetics, microbiology, and cell biology courses. This entailed:
+  
+  <ul>
+    <li> preparing teaching materials (both documents and technical preparations)</li>
+    <li> supervising undergraduate and medical student Teaching Assistants</li>
+    <li> serving as instructional support for 5-7 three-hour labs per week</li>
+  </ul>
+  
+  When not supporting classroom teaching, I was also responsible for the shared research lab of six faculty members, including
+  ordering and budgeting, ensuring EH&S compliance, lab upkeep, and monitoring the ~20 undergraduate research students using the space.
 
+<hr>
+
+<h2> Swarthmore College </h2>
+
+<h3> Teaching Assistant (2013-2014) </h3>
+<p> As an undergraduate, I was a Teaching Assistant for the laboratory components of the two introductory biology courses: Cellular and Molecular Biology (BIOL 001) and Organismal and Population Biology (BIOL 002). This involved hands-on assistance during the lab period, as 
+  well as running extra statistical help sessions.
+  
 <hr style="height:1px; border:none; color:#4A1486; background-color:#4A1486;">
 
-<h2> Writing Associate and Teaching Assistant at Swarthmore College </h2>
-
-<p> As an undergraduate, I was recruited as Writing Associate (WA) and trained in a semester-long course in writing pedagogy. For 3 years, I
-  worked as a "Course WA" for the introductory biology courses, assigned 10-12 students each semester. Throughout the semester, I worked
-  one-on-one with these students to mentor them through the process of writing lab reports. In my senior year, I was also a Teaching
-  Assistant for these same two introductory biology labs.
+<h3> Writing Associate (2011-2014) </h3>
+<p> I was recruited to participate in the <a href="https://www.swarthmore.edu/writing/writing-associate-fellows" 
+                          target="_blank" rel="noopener noreferrer">Writing Associate (WA) Fellowship program</a>, 
+  and trained in a semester-long course in writing pedagogy. For 3 years, I worked as a
+  <a href="https://www.swarthmore.edu/writing/course-wa-program" target="_blank" rel="noopener noreferrer">"Course WA"</a> for the 
+  introductory biology courses, assigned 10-12 students each semester. Throughout the semester, I worked one-on-one with these students 
+  to mentor them through the process of writing lab reports.
   
- <p> In my 3 years as a WA, I also worked in the Writing Center, where I worked with students at all levels on discipline-specific writing
-   practices across all disciplines, and served as a peer mentor to a total of five WAs-in-training.
+ <p> In my 3 years as a WA, I also worked in the Swarthmore College Writing Center, where I helped students at all levels on 
+   discipline-specific writing practices across all disciplines, and served as a peer mentor to a total of five WAs-in-training.
