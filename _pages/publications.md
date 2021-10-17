@@ -18,16 +18,16 @@ permalink: /publications/
 <h2> Published </h2>
 
 <ul>
-  <li> <i><span style="color: #4A1486"> PRIMARY </span></i> Koren A, <b><i>Massey DJ</b></i>, Bracci AN. (2021). <a href="https://doi.org/10.1093/bioinformatics/btab166" target="_blank" rel="noopener noreferrer"> TIGER: inferring DNA replication timing from whole-genome sequence data. </a> <i> Bioinformatics </i> btab166 </li>
+  <li>Koren A, <b><i>Massey DJ</b></i>, Bracci AN. (2021). <a href="https://doi.org/10.1093/bioinformatics/btab166" target="_blank" rel="noopener noreferrer"> TIGER: inferring DNA replication timing from whole-genome sequence data. </a> <i> Bioinformatics </i> btab166 </li>
   <br>
-  <li> <i><span style="color: #4A1486"> REVIEW </span></i>  Hulke ML*, <b><i>Massey DJ*</b></i> & Koren A. (2019).
-    <a href="https://doi.org/10.1007/s10577-019-09624-y" target="_blank" rel="noopener noreferrer"> Genomic methods for measuring DNA replication dynamics.</a> <i>Chromosome Research</i> 28, 49–67.</li>
+  <li>Hulke ML*, <b><i>Massey DJ*</b></i> & Koren A. (2019).
+    <a href="https://doi.org/10.1007/s10577-019-09624-y" target="_blank" rel="noopener noreferrer"> Genomic methods for measuring DNA replication dynamics.</a> <i>Chromosome Research</i> 28, 49–67. <i><span style="color: #4A1486"> REVIEW </span></i></li>
   <br>
-  <li> <i><span style="color: #4A1486"> PRIMARY </span></i>  <b><i>Massey DJ*</b></i>, Kim D*, Brooks KE, Smolka MB, Koren A. (2019). <a href="https://doi.org/10.3390/genes10040269" target="_blank" rel="noopener noreferrer"> Next-generation sequencing enables spatiotemporal resolution of human centromere replication timing.</a> <i>Genes</i> 10, 269.</li>
+  <li><b><i>Massey DJ*</b></i>, Kim D*, Brooks KE, Smolka MB, Koren A. (2019). <a href="https://doi.org/10.3390/genes10040269" target="_blank" rel="noopener noreferrer"> Next-generation sequencing enables spatiotemporal resolution of human centromere replication timing.</a> <i>Genes</i> 10, 269.</li>
   <br>
-  <li> <i><span style="color: #4A1486"> NEWS AND VIEWS </span></i>  <b><i>Massey DJ</b></i> & Koren A (2017).
+  <li><b><i>Massey DJ</b></i> & Koren A (2017).
     <a href="https://doi.org/10.1038/ng.3993" target="_blank" rel="noopener noreferrer"> Mismatch repair prefers exons.</a>
-    <i>Nature Genetics</i> 49, 1673-1674.</li>
+    <i>Nature Genetics</i> 49, 1673-1674.<i><span style="color: #4A1486"> NEWS AND VIEWS </span></i> </li>
   <br>
-  <li> <i><span style="color: #4A1486"> PRIMARY </span></i> Delabaere L*, Ertl HA*, <b><i>Massey DJ</b></i>, Hofley CM, Sohail F, Bienenstock EJ, Sebastian H, Chiolo3 I & LaRocque JR. (2017). <a href="https://doi.org/10.1111/acel.12556" target="_blank" rel="noopener noreferrer"> Aging impairs double-strand break repair by homologous recombination in Drosophila germ cells.</a> <i>Aging Cell</i> 16, 320-328. </li> 
+  <li>Delabaere L*, Ertl HA*, <b><i>Massey DJ</b></i>, Hofley CM, Sohail F, Bienenstock EJ, Sebastian H, Chiolo3 I & LaRocque JR. (2017). <a href="https://doi.org/10.1111/acel.12556" target="_blank" rel="noopener noreferrer"> Aging impairs double-strand break repair by homologous recombination in Drosophila germ cells.</a> <i>Aging Cell</i> 16, 320-328. </li> 
 </ul>
