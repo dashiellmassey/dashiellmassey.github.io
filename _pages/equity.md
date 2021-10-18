@@ -19,10 +19,9 @@ interest in how socially-segregated interpersonal networks create persistent bar
   
 <p> This interest dates back to high school: my high school had roughly equal numbers of white and Black students, and gave each student
   the choice of whether to take any course at the college preparation, honors, and AP level; yet honors and AP classes were 
-  disproportionately white. In the summer my junior year of high school, I proposed a project to the Mayor’s Office and School District, 
-  which generously provided me with funding to mail a survey to every family at the school. In the ~200 parent-student pairs who responded,
-  the majority of parents and students alike reported that they made these decisions primarily based on information from friends and peers,
-  rather than from school administrators. </p>
+  disproportionately white. In the summer after my junior year of high school, I proposed a project to the Mayor’s Office and School District, which generously provided me with funding to mail a survey to every family at the school. In the ~200 parent-student pairs who 
+  responded, the majority of parents and students alike reported that they made these decisions primarily based on information from friends 
+  and peers, rather than from school administrators. </p>
   
 <p> In the subsequent 12+ years, I have consistently seen this pattern play out: inequitable access to <i>information</i> shapes inequitable
   outcomes, even when efforts are made to create equitable policies.
