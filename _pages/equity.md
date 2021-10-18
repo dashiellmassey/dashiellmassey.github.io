@@ -29,18 +29,18 @@ interest in how socially-segregated interpersonal networks create persistent bar
 </p>
 
 <p> Thus, in my work with my department's 
-  <a href="https://www.cornellmbgdiversity.org/" target="_blank" rel="noopener noreferrer"> Diversity Council</a>, 
+  <a class="light-bg" href="https://www.cornellmbgdiversity.org/" target="_blank" rel="noopener noreferrer"> Diversity Council</a>, 
   I have focused my efforts on helping to generate resources that make explicit and available to everyone the "informal" advice typically
   shared by more senior friends or lab members. These projects have included:
                                                                                                                
     <ul>
     
-    <li> an <a href="https://gendev.cornell.edu/wp-content/uploads/2019/06/Preparing-for-the-A-Exam.pdf" target="_blank" rel="noopener noreferrer">"informal guide"</a> to writing the candidacy exam, with advice on time management, how to get support, etc.</li>    
+    <li> an <a class="light-bg" href="https://gendev.cornell.edu/wp-content/uploads/2019/06/Preparing-for-the-A-Exam.pdf" target="_blank" rel="noopener noreferrer">"informal guide"</a> to writing the candidacy exam, with advice on time management, how to get support, etc.</li>    
     <li> a department-specific
-    <a href="https://docs.google.com/document/d/1tDdShkEMDvK7N0GymT6Vmf_h-PZZpIykeBYyGE3FBZI/edit?usp=sharing" target="_blank" 
+    <a class="light-bg" href="https://docs.google.com/document/d/1tDdShkEMDvK7N0GymT6Vmf_h-PZZpIykeBYyGE3FBZI/edit?usp=sharing" target="_blank" 
     rel="noopener noreferrer">DEI Resource Guide</a>, which has been shared across the university</li>
     <li> the first
-    <a href="https://www.lifescidrw.com/" target="_blank" rel="noopener noreferrer"> Life Sciences Diversity Recruitment Weekend </a>, 
+    <a class="light-bg" href="https://www.lifescidrw.com/" target="_blank" rel="noopener noreferrer"> Life Sciences Diversity Recruitment Weekend </a>, 
     a two-day virtual event to share information about writing stronger Ph.D. applications with anyone (worldwide) from a background 
     historically underrepresented in academia, co-sponsored by five graduate programs</li>
     
@@ -59,14 +59,14 @@ interest in how socially-segregated interpersonal networks create persistent bar
     <li> challenge preconceived notions about a scientist "looks like" </li>
     </ul>
     
-<p> Check out the profiles from <a href="https://www.facebook.com/dashiell.massey/media_set?set=a.10155110580103606&type=3"
+<p> Check out the profiles from <a class="light-bg" href="https://www.facebook.com/dashiell.massey/media_set?set=a.10155110580103606&type=3"
     target="_blank" rel="noopener noreferrer">2017</a>, 
-    <a href="https://www.facebook.com/dashiell.massey/media_set?set=a.10156316325418606&type=3"
+    <a class="light-bg" href="https://www.facebook.com/dashiell.massey/media_set?set=a.10156316325418606&type=3"
     target="_blank" rel="noopener noreferrer">2018</a>,
-    and <a href="https://www.facebook.com/dashiell.massey/media_set?set=a.10158452513103606&type=3"
+    and <a class="light-bg" href="https://www.facebook.com/dashiell.massey/media_set?set=a.10158452513103606&type=3"
     target="_blank" rel="noopener noreferrer">2020</a> on Facebook.
 
    <p><i> If you are featured and would like to make an addition/correction (or if you would like me to take down your profile), please
-    <a href="mailto:dashiell.massey.web@gmail.com" target="_blank" rel="noopener noreferrer">let me know</a>!
+    <a class="light-bg" href="mailto:dashiell.massey.web@gmail.com" target="_blank" rel="noopener noreferrer">let me know</a>!
      If you are a Black scientist who I have not written about and you would like to be featured in a future February, I would love to hear
      from you.</i>
