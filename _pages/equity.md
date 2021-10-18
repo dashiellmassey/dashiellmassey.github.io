@@ -55,7 +55,7 @@ interest in how socially-segregated interpersonal networks create persistent bar
     <ul>
     <li> promote the work of these researchers,</li>
     <li> engage non-experts in thinking about (and getting excited about) biology, and </li>
-    <li> challenge preconceived notions about a scientist "looks like" </li>
+    <li> challenge preconceived notions about what a scientist "looks like" </li>
     </ul>
     
 <p> Check out the profiles from <a class="light-bg" href="https://www.facebook.com/dashiell.massey/media_set?set=a.10155110580103606&type=3"
