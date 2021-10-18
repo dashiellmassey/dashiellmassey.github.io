@@ -22,7 +22,7 @@ interest in how socially-segregated interpersonal networks create persistent bar
   disproportionately white. In the summer after my junior year of high school, I conceived of and proposed a project to the Mayor’s Office and School District,
   which generously provided me with funding to mail my survey to every family at the school. In the ~200 parent-student pairs who 
   responded, the majority of parents and students alike reported that they made these decisions primarily based on information from friends 
-  and peers, rather than from school administrators. (<a class="light-bg" href="/files/High_School_Transition_Report_2009.pdf" target="_blank" rel="noopener noreferrer">Read the report<i class='fa fa-link fa-lg'></i></a>.)</p>
+  and peers, rather than from school administrators. (<a class="light-bg" href="/files/High_School_Transition_Report_2009.pdf" target="_blank" rel="noopener noreferrer">Read the report <i class='fa fa-link fa-lg'></i></a>.)</p>
   
 <p> In the subsequent 12+ years, I have consistently seen this pattern play out: inequitable access to <i>information</i> shapes inequitable
   outcomes, even when efforts are made to create equitable policies.
