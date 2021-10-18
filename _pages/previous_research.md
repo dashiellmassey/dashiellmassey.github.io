@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Previous Research Projects
-subtitle: <a href="/research/"><u>Return</u></a> to current research.
+subtitle: <a class="light-bg" href="/research/"><u>Return</u></a> to current research.
 permalink: /past-research/
 ---
 
 <h3> Double-strand break repair in <i>Drosophila melanogaster</i> (2015-2016)</h3>
-<h4> PI: <a href="https://blogs.commons.georgetown.edu/janlarocque/" target="_blank" rel="noopener noreferrer">
+<h4> PI: <a class="light-bg" href="https://blogs.commons.georgetown.edu/janlarocque/" target="_blank" rel="noopener noreferrer">
   Jan LaRocque, Ph.D.</a> (Georgetown University) </h4>
 
 <p style="text-align:center;"><img src="/images/Aging-Cell-Figure3.jpg" width="400"></p>
@@ -21,13 +21,13 @@ or the apoptotic pathway to maintain genomic stability. In this project, we inve
 aging in a fruit fly model, hypothesizing that diminished expression of repair genes might explain the decreased frequency of homologous
 repair observed in older flies. Contrary to this expectation, we find that the HR pathway is upregulated with
 advanced age, even in the absence of DNA damage. 
-<a href="https://doi.org/10.1111/acel.12556" target="_blank" rel="noopener noreferrer">
+<a class="light-bg" href="https://doi.org/10.1111/acel.12556" target="_blank" rel="noopener noreferrer">
   Read the paper in <i>Aging Cell</i>. <i class='fa fa-link fa-lg'></i></a>
 
 <hr style="height:1px; border:none; color:#4A1486; background-color:#4A1486;">
 
 <h3> Predicting failed sternal re-approximation in neonatal cardiac patients (2013-2015)</h3>
-<h4> PI: <a href="https://www.childrenshospital.org/directory/physicians/a/catherine-allan" 
+<h4> PI: <a class="light-bg" href="https://www.childrenshospital.org/directory/physicians/a/catherine-allan" 
             target="_blank" rel="noopener noreferrer">Catherine Allan, M.D.</a> (Boston Children's Hospital) </h4>
 
 Swelling of the heart and lungs is a common, and often dangerous, occurrence in the aftermath of open-heart surgery. Due to their
@@ -38,13 +38,13 @@ Swelling of the heart and lungs is a common, and often dangerous, occurrence in 
  from this procedure. We find that patients requiring lower levels of mechanical ventilation had significantly lower odds of poor outcome,
  whereas hemodynamic parameters were not predictive of the outcome.
 <br>
-<a href="https://www.ahajournals.org/doi/abs/10.1161/circ.130.suppl_2.19663" target="_blank" rel="noopener noreferrer">
+<a class="light-bg" href="https://www.ahajournals.org/doi/abs/10.1161/circ.130.suppl_2.19663" target="_blank" rel="noopener noreferrer">
   Read the conference abstract. <i class='fa fa-link fa-lg'></i></a>
 
 <hr style="height:1px; border:none; color:#4A1486; background-color:#4A1486;">
 
 <h3> Peripheral nerve regeneration in aging mice (2011)</h3>
-<h4> PI: <a href="https://kirbyneuro.org/WoolfLab/" target="_blank" rel="noopener noreferrer">
+<h4> PI: <a class="light-bg" href="https://kirbyneuro.org/WoolfLab/" target="_blank" rel="noopener noreferrer">
   Clifford Woolf, M.B. B.Ch. Ph.D.</a> (Harvard Medical School) </h4>
 
 Injuries to the nervous system are estimated to impact 90,000 people every year. In the peripheral nervous system, the axons of injured 
