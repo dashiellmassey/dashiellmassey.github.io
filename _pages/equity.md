@@ -48,7 +48,7 @@ interest in how socially-segregated interpersonal networks create persistent bar
 <br>
     <h2> Promoting Black biologists and science literacy </h2>
     
-    <p> Over the past few years, I have been building a collection of "spotlights" on Black faculty, which I post on daily on Facebook
+    <p> Over the past few years, I have been building a collection of "spotlights" on Black faculty, which I post daily on Facebook
     throughout the month of February. Each spotlight features the work of a Black biologist (including discussion of a primary research
     article), aimed at a lay audience. My goals in writing these profiles are to:
     
