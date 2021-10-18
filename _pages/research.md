@@ -17,7 +17,7 @@ In my Ph.D. work, I have examined several aspects of the replication timing prog
 
 <h3> Single-cell variation in replication timing </h3>
 
-<p style="text-align:center;"><img src="/images/Single-cell-Figure2a.jpg" width="700"></p>
+<p style="text-align:center;"><img src="/images/Single-cell-Figure2a-lo.jpg" width="700"></p>
 <i>Top: A replication timing profile inferred from aggregated single-cell data is very similar to a profile inferred from assaying a bulk population of cells. Bottom: Pileups of replicated regions across cells reveal shared, localized positions of replication initiation.</i>
 
 <br>
@@ -41,7 +41,7 @@ Replication timing can be inferred from local fluctuations in read depth in whol
 <hr style="height:1px; border:none; color:#4A1486; background-color:#4A1486;">
 <h3> Replication timing of human centromeres  </h3>
 
-<p style="text-align:center;"><img src="/images/Centromeres-Figure5.jpg" width="400"></p>
+<p style="text-align:center;"><img src="/images/Centromeres-Figure5-lo.jpg" width="400"></p>
 <i>Average replication timing of centromeres for five cell lines.</i>
 
 <br>
