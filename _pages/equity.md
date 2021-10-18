@@ -6,7 +6,7 @@ permalink: /equity/
 
 <h2> Social networks and the "hidden curriculum" </h2>
 
-<p> A through line across the diversity, equity, and inclusion (DEI) initiatives that I have participated in is my longstanding
+<p> A thread connecting the diversity, equity, and inclusion (DEI) initiatives that I have participated in is my longstanding
 interest in how socially-segregated interpersonal networks create persistent barriers to equity, even when institutions have the best of intentions. In other words:</p>
 
 <p style="text-align:center;">
@@ -19,9 +19,10 @@ interest in how socially-segregated interpersonal networks create persistent bar
   
 <p> This interest dates back to high school: my high school had roughly equal numbers of white and Black students, and gave each student
   the choice of whether to take any course at the college preparation, honors, and AP level; yet honors and AP classes were 
-  disproportionately white. In the summer after my junior year of high school, I proposed a project to the Mayor’s Office and School District, which generously provided me with funding to mail a survey to every family at the school. In the ~200 parent-student pairs who 
+  disproportionately white. In the summer after my junior year of high school, I conceived of and proposed a project to the Mayor’s Office and School District,
+  which generously provided me with funding to mail my survey to every family at the school. In the ~200 parent-student pairs who 
   responded, the majority of parents and students alike reported that they made these decisions primarily based on information from friends 
-  and peers, rather than from school administrators. </p>
+  and peers, rather than from school administrators. (<a class="light-bg" href="/files/High_School_Transition_Report_2009.pdf" target="_blank" rel="noopener noreferrer">Read the report<i class='fa fa-link fa-lg'></i></a>.)</p>
   
 <p> In the subsequent 12+ years, I have consistently seen this pattern play out: inequitable access to <i>information</i> shapes inequitable
   outcomes, even when efforts are made to create equitable policies.
