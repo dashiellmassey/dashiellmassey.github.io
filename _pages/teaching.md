@@ -28,7 +28,7 @@ coordinator, and currently as a graduate Teaching Assistant. These experiences a
     <li> holding weekly office hours </li>
   </ul>
   
-<p> In the four semesters that I have been a TA for this course, I have taken on additoinal leadership roles, involving:
+<p> In the four semesters that I have been a TA for this course, I have taken on additional leadership roles, involving:
   
   <ul>
     <li> participating in proofreading new assignment and exam questions during a large curricular overhaul</li>
