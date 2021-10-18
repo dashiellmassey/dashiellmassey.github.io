@@ -60,3 +60,4 @@ exclude:
   - tmp
   - archives
   - tags
+  - about
