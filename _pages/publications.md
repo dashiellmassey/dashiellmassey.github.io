@@ -13,6 +13,8 @@ permalink: /publications/
   <li> Yaacov A*, Vardi O*, Blumenfeld B, Greenberg A, <b><i>Massey DJ</b></i>, Koren A, Adar S, Simon I, Rosenberg S. (2021). <a class="light-bg" href="https://doi.org/10.1101/2021.05.05.442736" target="_blank" rel="noopener noreferrer"> Cancer mutational processes vary in their association with replication timing and chromatin accessibility.  <i class='ai ai-biorxiv ai-lg'></i></a></li>
   <br>
   <li> Palmerola KL*, Amrane S*, De Los Angeles A*, Xu S, Zuccaro MV, <b><i>Massey DJ</b></i>, de Pinho J, Subbiah A, Prosser B, Lobo R, Koren A, Baslan T, Egli D. (2021). <a class="light-bg" href="https://dx.doi.org/10.2139/ssrn.3825160" target="_blank" rel="noopener noreferrer"> DNA breaks due to replication stress limit the developmental potential of human preimplantation embryos.  <i class='ai ai-ssrn ai-lg'></i></a></li>
+  <br>
+  <li> Pereira C, Rebelo AR, <b><i>Massey DJ</b></i>, Schimenti JC, Weiss RS, Koren A.(2021). <a class="light-bg" href="https://dx.doi.org/10.1101/2021.10.28.466311" target="_blank" rel="noopener noreferrer"> Sequencing micronuclei reveals the landscape of chromosomal instability.  <i class='ai ai-biorxiv ai-lg'></i></a></li>
 </ul>
     
 <h3> Published </h3>
