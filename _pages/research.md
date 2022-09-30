@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Current Research Interests
+title: Doctoral Research
 subtitle: To read about my previous research, click <a class="light-bg" href="/past-research"><u>here</u></a>.
 permalink: /research/
 ---
@@ -12,7 +12,7 @@ Accurate and efficient replication of the genome is a crucial prerequisite to su
 <br>
 <br>
 
-In my Ph.D. work, I have examined several aspects of the replication timing program, each time with an eye toward method development:
+In my Ph.D. work, I examined several aspects of the replication timing program, each time with an eye toward method development:
 <br>
 
 <h3> Single-cell variation in replication timing </h3>
@@ -24,7 +24,8 @@ In my Ph.D. work, I have examined several aspects of the replication timing prog
 <br>
 
 Replication timing has been observed to be highly reproducible across assays, yet the underlying mechanism(s) dictating its emergence are incompletely understood. To better parse out what <i>kinds</i> of mechanisms might be responsible, we developed an approach to assay replication timing in thousands of single cells. We find that replication timing is remarkably consistent across cells, but nonetheless, cell-to-cell variability is evident. This variability is most compatible with the notion that replication timing arises from disparate origin firing probabilities rather than from some kind of global "metronome". 
-<a class="light-bg" href="https://doi.org/10.1101/2021.05.14.443897" target="_blank" rel="noopener noreferrer">Read the manuscript on Biorxiv. <i class='ai ai-biorxiv ai-lg'></i></a>
+<a class="light-bg" href="https://doi.org/10.1101/2021.05.14.443897" target="_blank" rel="noopener noreferrer">Read the paper in
+<i>Nature Communications</i>. <i class='fa fa-link fa-lg'></i></a>
 
 <hr style="height:1px; border:none; color:#4A1486; background-color:#4A1486;">
 <h3> Inferring replication timing without cell sorting  </h3>
