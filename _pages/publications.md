@@ -60,7 +60,7 @@ permalink: /publications/
   <br>
   
   <li>
-    <b><i>Massey DJ</b></i>, Kim D*, Brooks KE, Smolka MB, Koren A. (2019). 
+    <b><i>Massey DJ*</b></i>, Kim D*, Brooks KE, Smolka MB, Koren A. (2019). 
     <a class="light-bg" href="https://doi.org/10.3390/genes10040269" target="_blank" rel="noopener noreferrer">
     Next-generation sequencing enables spatiotemporal resolution of human centromere replication timing.</a> <i>Genes</i> 10, 269.
   </li>
@@ -68,7 +68,7 @@ permalink: /publications/
   <br>
   
   <li>
-    Hulke ML*, <b><i>Massey DJ</b></i> & Koren A. (2019).
+    Hulke ML*, <b><i>Massey DJ*</b></i> & Koren A. (2019).
   <a class="light-bg" href="https://doi.org/10.1007/s10577-019-09624-y" target="_blank" rel="noopener noreferrer">
     Genomic methods for measuring DNA replication dynamics.</a> <i>Chromosome Research</i> 28, 49–67. 
     <i><span style="color: #4A1486"> REVIEW </span></i>
@@ -86,7 +86,7 @@ permalink: /publications/
   <br>
   
   <li>
-    Delabaere L*, Ertl HA*, <b><i>Massey DJ</b></i>, Hofley CM, Sohail F, Bienenstock EJ, Sebastian H, Chiolo I & LaRocque JR. (2017).
+    Delabaere L, Ertl HA, <b><i>Massey DJ</b></i>, Hofley CM, Sohail F, Bienenstock EJ, Sebastian H, Chiolo I & LaRocque JR. (2017).
     <a class="light-bg" href="https://doi.org/10.1111/acel.12556" target="_blank" rel="noopener noreferrer">
     Aging impairs double-strand break repair by homologous recombination in Drosophila germ cells.</a> <i>Aging Cell</i> 16, 320-328.
   </li>
