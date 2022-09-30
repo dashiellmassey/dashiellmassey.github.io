@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Doctoral Research
-subtitle: To read about my previous research, click <a class="light-bg" href="/past-research"><u>here</u></a>.
+subtitle: To read about my pre-doctoral research, click <a class="light-bg" href="/past-research"><u>here</u></a>.
 permalink: /research/
 ---
 
@@ -24,7 +24,7 @@ In my Ph.D. work, I examined several aspects of the replication timing program, 
 <br>
 
 Replication timing has been observed to be highly reproducible across assays, yet the underlying mechanism(s) dictating its emergence are incompletely understood. To better parse out what <i>kinds</i> of mechanisms might be responsible, we developed an approach to assay replication timing in thousands of single cells. We find that replication timing is remarkably consistent across cells, but nonetheless, cell-to-cell variability is evident. This variability is most compatible with the notion that replication timing arises from disparate origin firing probabilities rather than from some kind of global "metronome". 
-<a class="light-bg" href="https://doi.org/10.1101/2021.05.14.443897" target="_blank" rel="noopener noreferrer">Read the paper in
+<a class="light-bg" href="https://doi.org/10.1038/s41467-022-30212-y" target="_blank" rel="noopener noreferrer">Read the paper in
 <i>Nature Communications</i>. <i class='fa fa-link fa-lg'></i></a>
 
 <hr style="height:1px; border:none; color:#4A1486; background-color:#4A1486;">
