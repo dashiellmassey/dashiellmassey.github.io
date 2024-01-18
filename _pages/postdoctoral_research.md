@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Postdoctoral Research
-subtitle: To read about my pre-doctoral research, click <a class="light-bg" href="/past-research"><u>here</u></a>.
+subtitle: To read about my pre-doctoral research, click <a class="light-bg" href="/predoc-research"><u>here</u></a>. To read about my doctoral research, click <a class="light-bg" href="/phd-research"><u>here</u></a>.
 permalink: /postdoc-research/
 ---
 
