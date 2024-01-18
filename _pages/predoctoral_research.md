@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Previous Research Projects
-subtitle: <a class="light-bg" href="/research/"><u>Return</u></a> to current research.
-permalink: /past-research/
+title: Pre-Doctoral Research
+subtitle: To read about my doctoral research, click <a class="light-bg" href="/phd-research"><u>here</u></a>. To read about my postdoctoral research, click <a class="light-bg" href="/postdoc-research"><u>here</u></a>.
+permalink: /predoc-research/
 ---
 
 <h3> Double-strand break repair in <i>Drosophila melanogaster</i> (2015-2016)</h3>
