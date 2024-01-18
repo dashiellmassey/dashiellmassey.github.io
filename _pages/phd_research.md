@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Doctoral Research
-subtitle: To read about my pre-doctoral research, click <a class="light-bg" href="/past-research"><u>here</u></a>.
-permalink: /research/
+subtitle: To read about my pre-doctoral research, click <a class="light-bg" href="/predoc-research"><u>here</u></a>. To read about my postdoctoral research, click <a class="light-bg" href="/postdoc-research"><u>here</u></a>.
+permalink: /phd-research/
 ---
 
 <h2> DNA replication timing in humans </h2>
