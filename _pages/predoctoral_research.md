@@ -27,8 +27,8 @@ advanced age, even in the absence of DNA damage.
 <hr style="height:1px; border:none; color:#4A1486; background-color:#4A1486;">
 
 <h3> Predicting failed sternal re-approximation in neonatal cardiac patients (2013-2015)</h3>
-<h4> PI: <a class="light-bg" href="https://www.childrenshospital.org/directory/physicians/a/catherine-allan" 
-            target="_blank" rel="noopener noreferrer">Catherine Allan, M.D.</a> (Boston Children's Hospital) </h4>
+<h4> PI: <a class="light-bg" href="https://my.clevelandclinic.org/staff/31948-catherine-allan" 
+            target="_blank" rel="noopener noreferrer">Catherine Allan, M.D.</a> (Boston Children's Hospital, now at Cleveland Clinic) </h4>
 
 Swelling of the heart and lungs is a common, and often dangerous, occurrence in the aftermath of open-heart surgery. Due to their
  small size, neonates are particularly vulnerable to such swelling and its consequences. Therefore, it is common practice to 
