@@ -6,6 +6,35 @@ permalink: /publications/
 
 <h4> <i> * indicates equal contribution </i></h4>
 
+<h2>Peer-Reviewed Articles </h2>
+
+<ol>
+  
+  <li><a class="light-bg" href="https://doi.org/10.1016/j.celrep.2023.113664" target="_blank" rel="noopener noreferrer">
+    Incomplete reprogramming of DNA replication timing in induced pluripotent stem cells.</a> <br>
+    Matthew M. Edwards, Ning Wang, <b>Dashiell J. Massey</b>, Sakshi Bhatele, Dieter Egli, Amnon Koren <br>
+    <i>Cell Reports</i><br>
+    January 23, 2024
+  </li>
+
+  <li><a class="light-bg" href="https://doi.org/10.1093/biomethods/bpad032" target="_blank" rel="noopener noreferrer">
+    Getting it right: Teaching undergraduate biology to undermine racial essentialism.</a> <br>
+    Elaine Guevara, Shyamalika Gopalan, <b>Dashiell J. Massey</b>, Mayowa Adegboyega, Wen Zhou, Alma Solis, Alisha D. Anaya,
+    Steven E. Churchill, Joseph Feldblum, Richard R. Lawler<br>
+    <i>Biology Methods and Protocols</i><br>
+    November 11, 2023
+  </li>
+
+  <li><a class="light-bg" href="https://doi.org/10.1016/j.cell.2022.06.028" target="_blank" rel="noopener noreferrer">
+    Replication stress impairs chromosome segregation and preimplantation development in human embryos.</a> <br>
+    Katherine L. Palmerola, Selma Amrane, Alejandro De Los Angeles, Shuangyi Xu, Ning Wang, Joao de Pinho,
+    Michael V. Zuccaro, Angelo Taglialatela, <b>Dashiell J. Massey</b>, Jenna Turocy, Alex Robles, Anisa Subbiah,
+    Bob Prosser, Rogerio Lobo, Alberto Ciccia, Amnon Koren, Timour Baslan, and Dieter Egli<br>
+    <i>Cell</i><br>
+    August 4, 2022
+  </li>
+  
+</ol>
 <ul>
   
   <li>
