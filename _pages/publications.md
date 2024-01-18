@@ -102,8 +102,8 @@ permalink: /publications/
 
 <h2>Reviews and Commentaries</h2>
 <li><a class="light-bg" href="https://doi.org/10.1007/s10577-019-09624-y" target="_blank" rel="noopener noreferrer">
-    Genomic methods for measuring DNA replication dynamics (Review).</a> <br>
-    <span style="size: 10">
+    Genomic methods for measuring DNA replication dynamics.</a> (Review)<br>
+    <span style="font-size: 10pt">
       Michelle L. Hulke*, <b>Dashiell J. Massey*</b>, Amnon Koren<br>
       <i>Chromosome Research</i><br>
       December 17, 2019  
