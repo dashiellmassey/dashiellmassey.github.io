@@ -46,28 +46,26 @@
           <div class="entry-content">
              {{ page.content }}
           </div>  
+         
+           <div class="post-nav">
+              {% if page.previous.url %}
+              <a href="{{page.previous.url}}">
+                 <span aria-hidden="true">&laquo;</span>
+                 {{page.previous.title}}
+              </a>
+              {% endif %}
+           </div>
+           
+           <div class="post-nav-next">
+              {% if page.next.url %}
+              <a href="{{page.next.url}}">
+                 {{page.next.title}}
+                 <span aria-hidden="true">&raquo;</span>
+              </a>
+              {% endif %}
+           </div>
         </article>
     </div>
-
-   <div class="post-nav">
-  <div>
-    {% if page.previous.url %}
-      <a href="{{page.previous.url}}">
-        <span aria-hidden="true">&laquo;</span>
-        {{page.previous.title}}
-      </a>
-    {% endif %}
-  </div>
-      
-  <div class="post-nav-next">
-    {% if page.next.url %}
-    <a href="{{page.next.url}}">
-      <span aria-hidden="true">&raquo;</span>
-      {{page.next.title}}
-    </a>
-    {% endif %}
-  </div>
-</div>
 </body>
    
 <!-- FOOTER -->  
