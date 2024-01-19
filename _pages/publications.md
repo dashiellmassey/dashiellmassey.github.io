@@ -103,8 +103,8 @@ permalink: /publications/
 <h2>Reviews and Commentaries</h2>
 <li><a class="light-bg" href="https://doi.org/10.1007/s10577-019-09624-y" target="_blank" rel="noopener noreferrer">
     Genomic methods for measuring DNA replication dynamics.</a> (Review)<br>
-    <span style="font-size: 12px">
-      Michelle L. Hulke*, <b>Dashiell J. Massey*</b>, Amnon Koren<br>
+    <span style="font-size: 14px">
+      Michelle L. Hulke*, <b>Dashiell J. Massey*</b>, Amnon Koren
       <i>Chromosome Research</i><br>
       December 17, 2019  
     </span>
@@ -113,7 +113,7 @@ permalink: /publications/
 
   <li><a class="light-bg" href="https://doi.org/10.1038/ng.3993" target="_blank" rel="noopener noreferrer">
     Mismatch repair prefers exons.</a> (News and Views)<br>
-    <span style="font-size: 12px">
+    <span style="font-size: 14px">
       <b>Dashiell J. Massey</b>, Amnon Koren<br>
       <i>Nature Genetics</i><br>
       November 29, 2017  
