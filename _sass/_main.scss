@@ -288,13 +288,9 @@ header .entry-meta {
       padding: 25px 10px;
 
       .featured-image {
-            display:flex;
-	      align-items:center;
-	      justify-content:center;
-            float:center;
-        	width:50%;
-	      margin:-50px -80px;
-            padding: 0px 0px 50px 0px;
+            display:block;
+	      margin:-50px -50px;
+            padding: 20px 0px 50px 0px;
           }
     }
 		@media #{$small} {
