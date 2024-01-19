@@ -1,7 +1,7 @@
 ---
 layout: post-index
 title: Spotlights on Black Scientists
-permalink: /spotlight/
+permalink: /spotlights/
 ---
 
 {% for post in site.categories.profiles %}
@@ -22,7 +22,7 @@ permalink: /spotlight/
         </div>
             
         <div class="col-1-2">
-                
+                <article class="hentry">
                 <h2 class="entry-title">
                         <a class="light-bg" href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
                 </h2>
@@ -36,6 +36,7 @@ permalink: /spotlight/
                 <div class="post-date">
                         {{ post.date | date: "%B %-d, %Y"}}
                 </div>
+                </article>
         </div>
     </div>
 </article> 
