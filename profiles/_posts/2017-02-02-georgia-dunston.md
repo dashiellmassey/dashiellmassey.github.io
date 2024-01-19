@@ -4,7 +4,7 @@ categories: profiles
 
 title: Dr. Georgia Dunston
 
-featured-image: /images/satellite-header-1.png
+featured-image: /images/profiles/Georgia-Dunston.jpeg
 date: 2017-02-02
 ---
 
