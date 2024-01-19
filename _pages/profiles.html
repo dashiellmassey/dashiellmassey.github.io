@@ -5,6 +5,8 @@ permalink: /profiles/
 ---
 
 {% for post in site.categories.profiles %}
+    {% capture this_categories %}{{ post.categories }}{% endcapture %}
+
 {{post.title}}
 
 {{post.feature-image}}
