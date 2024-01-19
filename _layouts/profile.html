@@ -7,13 +7,7 @@
 <head>
     {% include head.html %}
 
-    <!-- HEADER IMAGE -->
-    <!-- <center>
-        <span class="main-header-image">
-            <a href="/"><img src="/images/header/clean-and-simple-header.jpg"></a>
-        </span>
-    </center> -->
-    <br>
+   <br>
     <center>
         <span class="main-header-image">
             <h1 style="font-weight:100; font-kerning:normal"><a href="/">{{ site.title }}</a></h1>
@@ -42,7 +36,13 @@
           <div class="post-date">
              {{ page.date | date: "%B %-d, %Y"}}
          </div>
-      
+
+           <div class="entry-content">
+              {{ page.headline }}
+           </div>
+
+           <hr>
+           
           <div class="entry-content">
              {{ page.content }}
           </div>  
