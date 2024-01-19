@@ -1,0 +1,12 @@
+---
+layout: post-index
+title: Publications
+permalink: /profiles/
+---
+
+{% for post in site.categories.profiles %}
+{{post.title}}
+
+{{post.feature-image}}
+
+{% endfor %}
