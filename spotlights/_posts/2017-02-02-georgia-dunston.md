@@ -5,7 +5,7 @@ categories: spotlights
 title: Dr. Georgia Dunston
 headline: This is Dr. Georgia Dunston, founding director of the National Human Genome Center at Howard University. She was the first African-American student to earn a PhD in Human Genetics from the University of Michigan in 1972. After earning her PhD, she was recruited to Howard University in Washington DC, where she did post-doctoral work in collaboration with the National Cancer Institute.
 
-featured-image: /spotlights/images/georgia-dunston.jpeg
+featured-image: /spotlights/images/georgia-dunston.jpg
 date: 2017-02-02
 ---
 
