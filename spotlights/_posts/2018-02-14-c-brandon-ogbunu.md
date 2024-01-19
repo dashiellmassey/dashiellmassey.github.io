@@ -3,7 +3,7 @@ layout: spotlight
 categories: spotlights
 
 title: Dr. C. Brandon Ogbunu
-headline: Dr. C. Brandon Ogbunu, PhD, Assistant Professor of Biology (University of Vermont). <b> Dr. Ogbunu works to develop models that explain how infectious diseases evolve, including the emergence of drug resistant strains.
+headline: Dr. C. Brandon Ogbunu, PhD, Assistant Professor of Biology (University of Vermont). <p> Dr. Ogbunu works to develop models that explain how infectious diseases evolve, including the emergence of drug resistant strains.
 
 featured-image: /spotlights/images/c-brandon-ogbunu.jpeg
 date: 2018-02-14
