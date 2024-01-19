@@ -8,7 +8,7 @@ permalink: /publications/
 
 <ol>
 
-<h2>Peer-Reviewed Articles </h2>
+<h3>Peer-Reviewed Articles </h3>
   
   <li><a class="light-bg" href="https://doi.org/10.1016/j.celrep.2023.113664" target="_blank" rel="noopener noreferrer">
     Incomplete reprogramming of DNA replication timing in induced pluripotent stem cells.</a> <br>
@@ -113,7 +113,7 @@ permalink: /publications/
   <br>
   
 
-<h2>Preprints </h2>
+<h3>Preprints </h3>
 <li><a class="light-bg" href="https://doi.org/10.1101/2021.10.28.466311" target="_blank" rel="noopener noreferrer">
     Sequencing micronuclei reveals the landscape of chromosomal instability.</a> <br>
     <div class="post-byline">
@@ -125,7 +125,7 @@ permalink: /publications/
   
   <br>
 
-<h2>Reviews and Commentaries</h2>
+<h3>Reviews and Commentaries</h3>
 <li><a class="light-bg" href="https://doi.org/10.1007/s10577-019-09624-y" target="_blank" rel="noopener noreferrer">
     Genomic methods for measuring DNA replication dynamics.</a> (Review)<br>
      <div class="post-byline">
