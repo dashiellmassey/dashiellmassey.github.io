@@ -104,10 +104,12 @@ permalink: /publications/
   
   <li><a class="light-bg" href="https://doi.org/10.1111/acel.12556" target="_blank" rel="noopener noreferrer">
     Aging impairs double-strand break repair by homologous recombination in <i>Drosophila</i> germ cells.</a> <br>
-    Laetitia Delabaere, Henry A. Ertl, <b>Dashiell J. Massey</b>, Carolyn M. Hofley, Faraz Sohail, Elisa J. Bienenstock,
-    Hans Sebastian, Irene Chiolo, Jeannine R. LaRocque<br>
-    <i>Aging Cell</i><br>
-    April 2, 2019  
+    <div class="post-byline">
+      Laetitia Delabaere, Henry A. Ertl, <b>Dashiell J. Massey</b>, Carolyn M. Hofley, Faraz Sohail, Elisa J. Bienenstock,
+      Hans Sebastian, Irene Chiolo, Jeannine R. LaRocque<br>
+      <i>Aging Cell</i><br>
+      April 2, 2019
+    </div>
   </li>
   
   <br>
