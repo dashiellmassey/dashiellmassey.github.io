@@ -17,7 +17,7 @@ permalink: /spotlight/
                         height:100%;
                         background-size:cover;
                         background-position:center">
-                        <img src="{{ page.featured-image }}">
+                        <img src="{{ post.featured-image }}">
                 </div>
         </div>
             
@@ -30,11 +30,11 @@ permalink: /spotlight/
                 <hr>
                 
                 <div class="entry-content">
-                        <p>{{ page.headline }}</p>
+                        <p>{{ post.headline }}</p>
                 </div>
                 
                 <div class="post-date">
-                        {{ page.date | date: "%B %-d, %Y"}}
+                        {{ post.date | date: "%B %-d, %Y"}}
                 </div>
         </div>
     </div>
