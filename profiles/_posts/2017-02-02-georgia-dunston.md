@@ -3,14 +3,11 @@ layout: profile
 categories: profiles
 
 title: Dr. Georgia Dunston
+headline: This is Dr. Georgia Dunston, founding director of the National Human Genome Center at Howard University. She was the first African-American student to earn a PhD in Human Genetics from the University of Michigan in 1972. After earning her PhD, she was recruited to Howard University in Washington DC, where she did post-doctoral work in collaboration with the National Cancer Institute.
 
 featured-image: /images/profiles/Georgia_Dunston.jpeg
 date: 2017-02-02
 ---
-
-This is Dr. Georgia Dunston, founding director of the National Human Genome Center at Howard University. She was the first African-American student to earn a PhD in Human Genetics from the University of Michigan in 1972. After earning her PhD, she was recruited to Howard University in Washington DC, where she did post-doctoral work in collaboration with the National Cancer Institute.
-
-<hr>
 
 DNA contains the instructions for growth and development of all known living organisms, including humans. Most of the time, it exists as two long strands wrapped around each other — you might have heard of it as the “double helix”, but I think picturing it as a ladder twisted around itself is helpful.
 
