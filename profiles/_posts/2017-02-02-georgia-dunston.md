@@ -26,4 +26,4 @@ Her most recent paper (published in Nature Communications in October 2016) seque
 
 Additionally, they were able to estimate the amount of genetic variation that resulted from the African Diaspora and to draw some conclusions about the histories of various populations, based on how similar they were.
 
-They also compared these genomes to pre-existing datasets of white Utahns, Yoruba people from Nigeria, and several indigenous groups in Mexico and Peru. From this, they were able to show that different populations had different percentages of European, African, and indigenous ancestry — and that European variants came mostly from male ancestors, while African and indigenous variants came mostly from female ancestors. See less
+They also compared these genomes to pre-existing datasets of white Utahns, Yoruba people from Nigeria, and several indigenous groups in Mexico and Peru. From this, they were able to show that different populations had different percentages of European, African, and indigenous ancestry — and that European variants came mostly from male ancestors, while African and indigenous variants came mostly from female ancestors.
