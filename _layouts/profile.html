@@ -46,17 +46,18 @@
           <div class="entry-content">
              {{ page.content }}
           </div>  
-         
+
            <div class="post-nav">
-              {% if page.previous.url %}
-              <a class="light-bg" href="{{page.previous.url}}">
+              <div>
+                 {% if page.previous.url %}
+                 <a class="light-bg" href="{{page.previous.url}}">
                  <span aria-hidden="true">&laquo;</span>
                  {{page.previous.title}}
-              </a>
-              {% endif %}
-           </div>
-           
-             <div class="post-nav">
+                 </a>
+                 {% endif %}
+              </div>
+              
+              <div class="post-nav-next">
                 {% if page.next.url %}
                 {% assign next_post_title_array = page.next.title | split: " " %}
                 {% assign next_post_cape_length = next_post_title_array | size | minus: 1 %}
@@ -71,6 +72,7 @@
                 </a>
                 {% endif %}
              </div>
+           </div>
         </article>
     </div>
 </body>
