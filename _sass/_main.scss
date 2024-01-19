@@ -288,9 +288,9 @@ header .entry-meta {
       padding: 25px 10px;
 
       .featured-image {
-            display:block;
+            display:flex;
 	      margin: auto;
-	      width:50%;
+	      width: 50%;
           }
     }
 		@media #{$small} {
