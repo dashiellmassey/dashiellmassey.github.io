@@ -3,14 +3,11 @@ layout: profile
 categories: profiles
 
 title: Dr. Jane Cooke Wright
+headline: This is Dr. Jane Cooke Wright (1919-2013), a founding member of the American Society of Clinical Oncology and pioneer in the field of cancer research and treatment.
 
 featured-image: /images/profiles/Jane_Cooke_Wright.jpeg
 date: 2017-02-03
 ---
-
-This is Dr. Jane Cooke Wright (1919-2013), a founding member of the American Society of Clinical Oncology and pioneer in the field of cancer research and treatment.
-
-<hr>
 
 Dr. Wright, a Smith alumna, earned her MD from New York Medical College in 1945, and began working with her father, Dr. Louis T. Wright — himself one of the first black graduates of Harvard Medical School — at the Harlem Hospital Cancer Research Center (which he had founded).
 
