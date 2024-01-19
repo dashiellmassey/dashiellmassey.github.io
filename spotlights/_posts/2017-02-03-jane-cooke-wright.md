@@ -5,7 +5,7 @@ categories: spotlights
 title: Dr. Jane Cooke Wright
 headline: This is Dr. Jane Cooke Wright (1919-2013), a founding member of the American Society of Clinical Oncology and pioneer in the field of cancer research and treatment.
 
-featured-image: /spotlights/images/Jane_Cooke_Wright.jpeg
+featured-image: /spotlights/images/jane-cooke-wright.jpeg
 date: 2017-02-03
 ---
 
