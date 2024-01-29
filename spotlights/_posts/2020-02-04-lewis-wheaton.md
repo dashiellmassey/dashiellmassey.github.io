@@ -2,8 +2,8 @@
 layout: spotlight
 categories: spotlights
 
-title: Dr. Louis Wheaton
-headline: Dr. Louis Wheaton, PhD, Associate Professor of Biological Sciences (Georgia Institute of Technology). <p> Dr. Wheaton is a neuroscientist interested in how the brain controls arm movements, with the goals of better understanding what goes wrong after stroke and of improving adaptation to prosthetics. In addition to his research, Dr. Wheaton was elected to the City Council of Smyrna, GA in 2019.
+title: Dr. Lewis Wheaton
+headline: Dr. Lewis Wheaton, PhD, Associate Professor of Biological Sciences (Georgia Institute of Technology). <p> Dr. Wheaton is a neuroscientist interested in how the brain controls arm movements, with the goals of better understanding what goes wrong after stroke and of improving adaptation to prosthetics. In addition to his research, Dr. Wheaton was elected to the City Council of Smyrna, GA in 2019.
 
 featured-image: /spotlights/images/louis-wheaton.jpeg
 date: 2020-02-04
