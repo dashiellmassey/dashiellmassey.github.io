@@ -51,9 +51,9 @@ interest in how socially-segregated interpersonal networks create persistent bar
 <br>
     <h2> Promoting Black biologists and science literacy </h2>
     
-    <p> In the past few years, I have built a collection of "spotlights" on Black faculty in the life sciences, posting one profile on Facebook
-    each day throughout the month of February. Each spotlight features the work of a Black biologist (including discussion of a primary research
-    article), aimed at a lay audience. My goals in writing these profiles was to:
+    <p> In the past few years, I have built a collection of <a class="light-bg" href="/spotlights">"spotlights"</a> on Black faculty in STEM.
+    Each spotlight features the work of a Black scientist (including discussion of a primary research article), aimed at a lay audience. I
+    originally posted these on Facebook, one each day throughout the month of February. My goals in writing these profiles was to:
     
     <ul>
     <li> promote the work of these researchers,</li>
@@ -61,12 +61,7 @@ interest in how socially-segregated interpersonal networks create persistent bar
     <li> challenge preconceived notions about what a scientist "looks like" </li>
     </ul>
     
-<p> Check out the profiles from <a class="light-bg" href="https://www.facebook.com/dashiell.massey/media_set?set=a.10155110580103606&type=3"
-    target="_blank" rel="noopener noreferrer">2017</a>, 
-    <a class="light-bg" href="https://www.facebook.com/dashiell.massey/media_set?set=a.10156316325418606&type=3"
-    target="_blank" rel="noopener noreferrer">2018</a>,
-    and <a class="light-bg" href="https://www.facebook.com/dashiell.massey/media_set?set=a.10158452513103606&type=3"
-    target="_blank" rel="noopener noreferrer">2020</a> on Facebook.
+<p> The spotlights have been archived <a class="light-bg" href="/spotlights">here</a> with minimal editing.
 
    <p><i> If you are featured and would like to make an addition/correction (or if you would like me to take down your profile), please
     <a class="light-bg" href="mailto:dashiell.massey.web@gmail.com" target="_blank" rel="noopener noreferrer">let me know</a>!
