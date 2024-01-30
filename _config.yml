@@ -22,7 +22,7 @@ permalink: /:categories/:year-:month-:day/:title.html
 
 # Amount of post to show on home page
 paginate: 15
-paginate_path: "spotlights/page:num/"
+paginate_path: "/spotlights/page:num/"
 
 #kramdown:
 #  input: GFM
