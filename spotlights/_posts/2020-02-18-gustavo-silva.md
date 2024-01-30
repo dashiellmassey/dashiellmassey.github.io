@@ -5,7 +5,7 @@ categories: spotlights
 title: Gustavo Silva, Ph.D.
 subtitle: Assistant Professor of Biology (Duke University) 
 
-headline: Dr. Silva studies how cells respond to stress using a systems biology approach: his work generates and looks for patterns in large-scale datasets to try to understand all the different roles that a stress response factor can play.
+headline: Dr. Silva studies how cells respond to stress using a systems biology approach - his work generates and looks for patterns in large-scale datasets to try to understand all the different roles that a stress response factor can play.
 
 featured-image: /spotlights/images/gustavo-silva.jpeg
 date: 2020-02-18
