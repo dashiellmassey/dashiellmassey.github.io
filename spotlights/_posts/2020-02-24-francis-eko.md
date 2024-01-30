@@ -2,7 +2,7 @@
 layout: spotlight
 categories: spotlights
 
-title:Francis Eko, Ph.D.
+title: Francis Eko, Ph.D.
 subtitle: Professor of Microbiology, Biochemistry, and Immunology (Morehouse School of Medicine)
 
 headline: Dr. Eko is a microbiologist interested in how chlamydia infection works, with the goal of developing an effective vaccine.
