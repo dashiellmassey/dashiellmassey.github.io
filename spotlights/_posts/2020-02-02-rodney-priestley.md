@@ -2,14 +2,16 @@
 layout: spotlight
 categories: spotlights
 
-title: Dr. Rodney Priestley
-headline: Dr. Rodney Priestley, PhD, Professor of Chemical and Biological Engineering (Princeton University).<p> Dr. Priestley is the Associate Director of the Princeton Center for Complex Materials, Faculty Co-Director of the Princeton Presidential Postdoctoral Research Fellows Program, and will become Princeton’s first Vice Dean for Innovation tomorrow(!), among other distinctions. His research uses physics, chemistry, and engineering to help design new nanomaterials, which can be used for better drug delivery.
+title: Rodney Priestley, Ph.D.
+subtitle: Professor of Chemical and Biological Engineering (Princeton University)
+
+headline: Dr. Priestley uses physics, chemistry, and engineering to help design new nanomaterials, which can be used for better drug delivery.
 
 featured-image: /spotlights/images/rodney-priestley.jpeg
 date: 2020-02-02
 ---
 
-Dr. Priestley has a BS in Chemical Engineering from Texas Tech University, and a PhD in Chemical Engineering from Northwestern University. Before joining the faculty at Princeton in 2009, he was a postdoctoral fellow at the École Supérieure de Physique et de Chimie Industrielles in Paris.
+Dr. Priestley has a B.S. in Chemical Engineering from Texas Tech University, and a Ph.D. in Chemical Engineering from Northwestern University. Before joining the faculty at Princeton in 2009, he was a postdoctoral fellow at the École Supérieure de Physique et de Chimie Industrielles in Paris. He is the Associate Director of the Princeton Center for Complex Materials, Faculty Co-Director of the Princeton Presidential Postdoctoral Research Fellows Program, and will become Princeton’s first Vice Dean for Innovation tomorrow.
 
 Nanoparticles are increasingly a focus of research in medicine. They have the potential to be used for both diagnostics and drug delivery, because they are small enough to circulate through the bloodstream and even enter into cells. This allows for slow release of the drug into the body over a longer period of time, reducing side effects and toxicity. This slow release can also be useful for getting different dyes to an organ for better diagnostic imaging.
 
