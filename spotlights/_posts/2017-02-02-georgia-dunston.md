@@ -23,6 +23,7 @@ In 1990, scientists from around the world started The Human Genome Project. The 
 <li> How many genes are there?</li>
 <li>How much variation is there between humans?</li>
 <li> How much variation is there between humans and chimpanzees? or humans and mice?</li>
+</ul>
 
 One challenge in making this kind of universal reference sequence for all people is that the human population is not genetically homogeneous. Dr. Dunston fought hard to make sure that a broad diversity of samples were included in the Human Genome Project, to better represent the variation that's present in the human population.
 
