@@ -50,9 +50,6 @@ interest in how socially-segregated interpersonal networks create persistent bar
   
 <br>
 
-{% capture my_include %}{% include spotlights_intro.html %}{% endcapture %}
-{{ my_include | markdownify }}
-
 <h2> Promoting Black biologists and science literacy </h2>
     
 <p> In the past few years, I have built a <a class="light-bg" href="/spotlights">collection of "spotlights"</a> on Black faculty in STEM.
