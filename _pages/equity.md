@@ -50,7 +50,7 @@ interest in how socially-segregated interpersonal networks create persistent bar
   
 <br>
 
-    {% include spotlights_intro.html %}
+{% include spotlights_intro.html %}
 
 
 
