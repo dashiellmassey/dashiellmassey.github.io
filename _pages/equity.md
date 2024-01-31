@@ -49,7 +49,7 @@ interest in how socially-segregated interpersonal networks create persistent bar
     </ul>
   
 <br>
-    {% include spotlights_intro.html %}
+    {% include_relative spotlights_intro.html %}
 
     <h2> Promoting Black biologists and science literacy </h2>
     
