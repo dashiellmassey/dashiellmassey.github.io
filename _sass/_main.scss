@@ -452,3 +452,12 @@ h1 {
   width: 1px;
   word-wrap: normal !important;
 }
+
+.spotlight {
+		background-color: #de2d26;
+		box-shadow: 0 0 0 0, 0 6px 12px rgba($base-color,0.2);
+		border-radius: 3px;
+		margin-bottom: 5px;
+		padding: 5px 5px;
+		overflow: hidden;
+}
