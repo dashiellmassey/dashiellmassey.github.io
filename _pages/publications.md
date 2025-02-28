@@ -9,6 +9,17 @@ permalink: /publications/
 <ol>
 
 <h3>Peer-Reviewed Articles </h3>
+
+  <li><a class="light-bg" href="https://doi.org/10.1093/genetics/iyaf022" target="_blank" rel="noopener noreferrer">
+    Differentiating mechanism from outcome for ancestry-assortative mating in admixed human populations.</a> <br>
+    <div class="post-byline">
+      <b>Dashiell J. Massey</b>, Zachary A. Szpiech, Amy Goldberg <br>
+      <i>Genetics</i><br>
+      February 7, 2025
+    </div>
+  </li>
+  
+  <br>
   
   <li><a class="light-bg" href="https://doi.org/10.1016/j.celrep.2023.113664" target="_blank" rel="noopener noreferrer">
     Incomplete reprogramming of DNA replication timing in induced pluripotent stem cells.</a> <br>
