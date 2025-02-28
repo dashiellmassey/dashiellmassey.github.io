@@ -22,5 +22,4 @@ defining mate choice on observed ancestry tracts.
 <br>
 <br>
 
-<a class="light-bg" href="/files/2023_SMBE_Poster.pdf" target="_blank" rel="noopener noreferrer">View my poster</a>
-from the 2023 Society for Molecular Biology and Evolution conference in Ferrara, Italy.<i class='fa fa-link fa-lg'></i>
+This work was recently published in <a class="light-bg" href="https://doi.org/10.1093/genetics/iyaf022" target="_blank" rel="noopener noreferrer">Genetics</a>.<i class='fa fa-link fa-lg'></i>
